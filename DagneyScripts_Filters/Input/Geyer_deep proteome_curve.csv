@@ -1,0 +1,1041 @@
+﻿Protein Names,Gene Names,Majority Protein IDs,LFQ Intensity [log10],Sequence Coverage [%],Number of Peptides,FDA-approved Biomarker,Act in Plasma ,Tissue Leakage ,Receptor Ligands,Concentration according to Plasma Proteome Database [log10(pg/ml)],Q-value
+"10 kDa heat shock protein, mitochondrial",HSPE1,P61604;B8ZZL8,8.36,36.3,4,,,,,3.81,0.000
+116 kDa U5 small nuclear ribonucleoprotein component,EFTUD2,Q15029;B4DK30,6.73,0.8,1,,,,,3.69,0.005
+"14-3-3 protein beta/alpha;14-3-3 protein beta/alpha, N-terminally processed",YWHAB,P31946;P31946-2,7.28,29.3,7,,,,,5.26,0.000
+14-3-3 protein epsilon,YWHAE,P62258;P62258-2,7.59,27.5,7,,,,,5.26,0.000
+14-3-3 protein eta,YWHAH,Q04917,6.72,12.6,3,,,,,5.26,0.001
+"14-3-3 protein gamma;14-3-3 protein gamma, N-terminally processed",YWHAG,P61981;B4DE78;B4DHC4,7.55,24.3,6,,,,,5.26,0.000
+14-3-3 protein sigma,SFN,P31947;P31947-2,7.66,18.1,5,,,,,5.26,0.000
+14-3-3 protein theta,YWHAQ,P27348;E9PG15;B4DMT8,7.39,21.2,5,,,,,5.26,0.000
+14-3-3 protein zeta/delta,YWHAZ,P63104;E7EX29;B0AZS6;E7EX24;B7Z2E6;H0YB80,8.40,33.5,7,,,,,5.26,0.000
+26S proteasome non-ATPase regulatory subunit 11,PSMD11,O00231,NaN,2.6,1,,,,,NaN,0.000
+26S proteasome non-ATPase regulatory subunit 12,PSMD12,O00232;O00232-2,6.97,4.4,2,,,,,NaN,0.000
+26S proteasome non-ATPase regulatory subunit 14,PSMD14,O00487,6.77,3.9,1,,,,,NaN,0.000
+26S proteasome non-ATPase regulatory subunit 2,PSMD2,Q13200;F5GZ16;H7C2Q3;C9JPC0,7.03,2.2,2,,,,,NaN,0.000
+3-hydroxyacyl-CoA dehydrogenase type-2,HSD17B10,Q99714;Q99714-2;Q5H928,6.97,13.4,2,,,,,3.79,0.002
+"3-ketoacyl-CoA thiolase, mitochondrial",ACAA2,P42765,7.06,2.8,1,,,,,4.41,0.000
+40S ribosomal protein S10;Putative 40S ribosomal protein S10-like,RPS10;RPS10P5,P46783;F6U211;Q9NQ39,NaN,4.2,1,,,,,3.23,0.000
+40S ribosomal protein S12,RPS12,P25398,7.53,24.2,2,,,,,3.92,0.000
+40S ribosomal protein S13,RPS13,P62277;E9PS50,6.15,15.9,2,,,,,NaN,0.000
+40S ribosomal protein S14,RPS14,P62263;H0YB22;E5RH77,7.97,15.9,2,,,,,3.68,0.000
+40S ribosomal protein S15,RPS15,P62841,8.40,9.0,1,,,,,NaN,0.000
+40S ribosomal protein S16,RPS16,P62249;Q6IPX4,6.93,7.5,1,,,,,NaN,0.002
+40S ribosomal protein S18,RPS18,P62269,7.69,32.2,5,,,,,3.23,0.000
+40S ribosomal protein S19,RPS19,P39019,7.86,19.3,3,,,,,3.72,0.000
+40S ribosomal protein S2,RPS2,P15880;H0YEN5;I3L404;E9PM36;E9PMM9;E9PQD7,7.06,3.8,1,,,,,3.53,0.000
+40S ribosomal protein S20,RPS20,P60866;P60866-2;E5RIP1;E5RJX2;G3XAN0,NaN,9.2,1,,,,,3.46,0.000
+40S ribosomal protein S23,RPS23,P62266;D6RDJ2;D6RIX0;D6R9I7;D6RD47,7.35,15.4,2,,,,,3.75,0.002
+40S ribosomal protein S24,RPS24,P62847;E7ETK0;P62847-2;P62847-3;E7EPK6,6.78,11.3,1,,,,,NaN,0.000
+40S ribosomal protein S25,RPS25,P62851,7.52,15.2,2,,,,,3.70,0.001
+40S ribosomal protein S26;Putative 40S ribosomal protein S26-like 1,RPS26;RPS26P11,P62854;Q5JNZ5;F8VZW7,7.74,17.4,2,,,,,NaN,0.000
+40S ribosomal protein S27;40S ribosomal protein S27-like,RPS27;RPS27L,P42677;Q71UM5;C9J1C5;Q5T4L4;H0YMV8,7.38,22.6,2,,,,,NaN,0.000
+40S ribosomal protein S28,RPS28,P62857,7.38,30.4,2,,,,,4.23,0.000
+40S ribosomal protein S3a,RPS3A,P61247;D6RG13;H0Y9Y4;D6RAT0;D6R9B6;D6RB09;F5H4F9;H0Y8L7;E9PFI5,8.55,23.1,6,,,,,NaN,0.000
+"40S ribosomal protein S4, X isoform;40S ribosomal protein S4, Y isoform 1",RPS4X;RPS4Y1,P62701;P22090;C9JEH7,7.43,9.9,3,,,,,NaN,0.000
+40S ribosomal protein S6,RPS6,P62753;A2A3R7;A2A3R5,8.59,11.6,3,,,,,NaN,0.000
+40S ribosomal protein S7,RPS7,P62081;B5MCP9,7.67,15.5,2,,,,,NaN,0.000
+40S ribosomal protein S8,RPS8,P62241;Q5JR95,7.83,18.8,3,,,,,NaN,0.000
+40S ribosomal protein S9,RPS9,P46781;B5MCT8;C9JM19;F2Z3C0;A8MXK4,7.90,9.3,2,,,,,NaN,0.000
+40S ribosomal protein SA,RPSA;RPSAP58,P08865;C9J9K3;A6NE09,7.60,10.2,2,,,,,3.41,0.000
+4F2 cell-surface antigen heavy chain,SLC3A2,P08195;P08195-3;B4E2Z3;F5GZS6;P08195-2;P08195-4,8.50,22.4,10,,,,,4.08,0.000
+4-hydroxyphenylpyruvate dioxygenase,HPD,P32754;H0YF74;B3KQ63,7.85,9.2,3,,,,,4.11,0.000
+"60 kDa heat shock protein, mitochondrial",HSPD1,P10809,8.86,38.0,20,,,,,3.71,0.000
+60S acidic ribosomal protein P0;60S acidic ribosomal protein P0-like,RPLP0;RPLP0P6,P05388;F8VS58;F8VQY6;F8VRK7;G3V210;F8VZS0;F8VU65;F8VWS0;Q3B7A4;Q8NHW5;F8VWV4;F8VPE8;F8VW21,NaN,3.5,1,,,,,NaN,0.000
+60S acidic ribosomal protein P2,RPLP2,P05387;H0YDD8,8.04,31.3,3,,,,,NaN,0.000
+60S ribosomal protein L10;60S ribosomal protein L10-like,RPL10;RPL10L,P27635;H7C123;H7C2C5;F8W7C6;Q96L21,7.84,18.7,4,,,,,NaN,0.000
+60S ribosomal protein L10a,RPL10A,P62906,7.33,15.2,3,,,,,NaN,0.000
+60S ribosomal protein L11,RPL11,P62913;Q5VVC8;P62913-2;Q5VVC9,7.10,12.4,2,,,,,3.53,0.000
+60S ribosomal protein L12,RPL12,P30050;P30050-2,7.70,26.1,3,,,,,3.28,0.000
+60S ribosomal protein L13,RPL13,P26373;F5H1S2,7.81,29.4,6,,,,,NaN,0.000
+60S ribosomal protein L14,RPL14,P50914;E7EPB3;B7Z6S8,7.45,5.6,1,,,,,NaN,0.000
+60S ribosomal protein L15;Ribosomal protein L15,RPL15,P61313;E7EX53;E7EQV9;Q642I1,7.32,13.7,3,,,,,NaN,0.000
+60S ribosomal protein L17,RPL17,P18621;B4E3C2,7.14,19.0,3,,,,,NaN,0.000
+60S ribosomal protein L18,RPL18,Q07020;F8VYV2;E7EW92;G3V203;F8VUA6;H0YHA7;F8VWC5,7.67,12.2,2,,,,,NaN,0.000
+60S ribosomal protein L18a,RPL18A,Q02543;B4DM74,6.65,10.2,2,,,,,NaN,0.008
+60S ribosomal protein L19,RPL19,P84098,7.65,4.6,1,,,,,NaN,0.000
+60S ribosomal protein L21,RPL21,P46778;G3V1B3,6.51,9.4,1,,,,,NaN,0.001
+60S ribosomal protein L23a,RPL23A,P62750;H7BY10;A8MXA8;A8MUS3,7.29,14.7,2,,,,,NaN,0.000
+60S ribosomal protein L26;60S ribosomal protein L26-like 1,RPL26;RPL26L1,P61254;Q9UNX3;E5RIT6,7.58,23.4,4,,,,,NaN,0.000
+60S ribosomal protein L27a,RPL27A,P46776;E9PLL6;E9PJD9;E9PLX7,6.87,5.4,1,,,,,NaN,0.008
+60S ribosomal protein L29,RPL29,P47914,7.46,9.4,1,,,,,NaN,0.000
+60S ribosomal protein L3,RPL3,P39023;H7C422;G5E9G0;B5MCW2;H7C3M2,7.91,20.1,9,,,,,NaN,0.000
+60S ribosomal protein L31,RPL31,P62899;P62899-3;P62899-2;B8ZZK4;H7C2W9;C9JU56;B7Z4E3;B7Z4C8,8.11,7.2,1,,,,,NaN,0.008
+60S ribosomal protein L32,RPL32,P62910;D3YTB1;F8W727,7.89,21.5,3,,,,,NaN,0.000
+60S ribosomal protein L35,RPL35,P42766;H0Y3A0;F2Z388,7.38,8.1,1,,,,,NaN,0.000
+60S ribosomal protein L39;Putative 60S ribosomal protein L39-like 5,RPL39;RPL39P5,P62891;Q59GN2,6.65,19.6,1,,,,,NaN,0.000
+60S ribosomal protein L4,RPL4,P36578;E7EWF1;H3BU31;B4DP82;H3BTP7;H3BM89,8.37,9.1,3,,,,,NaN,0.000
+60S ribosomal protein L5,RPL5,P46777;B3KTM6,6.79,8.1,2,,,,,3.60,0.000
+60S ribosomal protein L6,RPL6,Q02878;F8W181;F8VZ45,8.02,10.1,3,,,,,NaN,0.000
+60S ribosomal protein L7,RPL7,P18124;A8MUD9,7.54,12.1,2,,,,,NaN,0.000
+60S ribosomal protein L7a,RPL7A,P62424;Q5T8U3,6.05,4.1,1,,,,,3.54,0.009
+60S ribosomal protein L8,RPL8,P62917;E9PKZ0;E9PIZ3;E9PP36;G3V1A1;E9PKU4,7.64,13.2,3,,,,,NaN,0.000
+"6-phosphogluconate dehydrogenase, decarboxylating",PGD,P52209;F5H7U0;B4DQJ8;F5H0L3;B4DV68,7.13,10.4,3,,,,,4.46,0.000
+72 kDa type IV collagenase;PEX,MMP2,P08253;B4DWH3;E9PE45;H3BR66;H3BS34,7.63,3.6,2,,,,,5.40,0.000
+78 kDa glucose-regulated protein,HSPA5,P11021,9.03,37.9,23,,,,,5.00,0.000
+7SK snRNA methylphosphate capping enzyme,MEPCE,Q7L2J0;D6W5V7,6.93,1.6,1,,,,,NaN,0.006
+A disintegrin and metalloproteinase with thrombospondin motifs 13,ADAMTS13,Q76LX8;Q76LX8-2;Q76LX8-3,8.39,7.8,11,,,,,3.08,0.000
+Acid sphingomyelinase-like phosphodiesterase 3a,SMPDL3A,Q92484;B7Z729,6.76,1.5,1,,,,,NaN,0.000
+"Actin, alpha skeletal muscle;Actin, alpha cardiac muscle 1",ACTA1;ACTC1;ACTB,P68133;P68032;Q5T8M8;A6NL76;E7EQV5;C9JUM1,8.50,31.3,12,,,,,5.88,0.000
+"Actin, cytoplasmic 1;Actin, cytoplasmic 1, N-terminally processed",ACTB,P60709;B4E335;B4DW52;F5GYT4,9.82,50.1,17,,,,,NaN,0.000
+"Actin, cytoplasmic 2;Actin, cytoplasmic 2, N-terminally processed",ACTG1,P63261;F5H0N0;I3L3I4;I3L3I0;I3L1U9;I3L4N8,NaN,45.6,16,,,,,5.88,0.007
+"Actin, gamma-enteric smooth muscle;Actin, aortic smooth muscle",ACTG2;ACTA2;ACTA1,P63267;P62736;Q5T8M7;F5H1C1;B4DUI8;C9JFL5;F6UVQ4;F6QUT6;E9PG30;F8WB63;B8ZZJ2,NaN,28.5,11,,,,,NaN,0.000
+Actin-related protein 3;Actin-related protein 3B,ACTR3;ACTR3B,P61158;F5H3P5;B4DXW1;Q9P1U1;B4DTI0;Q9P1U1-2,7.01,4.3,2,,,,,4.58,0.000
+Acyl-CoA-binding domain-containing protein 5,ACBD5,Q5T8D3;Q5T8D3-3;B7Z2A7;H7BYB2;Q5T8D3-4;Q5T8D3-2,7.79,2.1,1,,,,,NaN,0.000
+ADAMTS-like protein 4,ADAMTSL4,Q6UY14;Q6UY14-2;F8WAD0,6.66,2.4,3,,,,,NaN,0.000
+Adenine phosphoribosyltransferase,APRT,P07741;H3BQF1;H3BQB1;G5E9J2,7.05,5.6,1,,,,,NaN,0.009
+Adenosine deaminase CECR1,CECR1,Q9NZK5;B4E3Q4;Q9NZK5-2,7.74,7.2,3,,,,,3.89,0.000
+Adenosine kinase,ADK,P55263;P55263-3;P55263-2;B7Z800,7.73,6.4,3,,,,,NaN,0.000
+Adenosylhomocysteinase,AHCY,P23526;F5H737,7.22,12.0,4,,,,,NaN,0.000
+Adenylyl cyclase-associated protein 1;Adenylyl cyclase-associated protein,CAP1,Q01518;F5H6Z3;Q01518-2;Q5T0R7;Q5T0R6;Q5T0R5;Q5T0R4;Q5T0R3;Q5T0R2;Q5T0R1;Q5T0R9,7.17,2.7,1,,,,,4.43,0.000
+Adipocyte plasma membrane-associated protein,APMAP,Q9HDC9;H0Y512;Q9HDC9-2,8.73,22.8,8,,,,,4.46,0.000
+Adiponectin,ADIPOQ,Q15848,9.12,20.1,3,,,,,6.56,0.000
+"ADP/ATP translocase 2;ADP/ATP translocase 2, N-terminally processed",SLC25A5,P05141,8.11,11.4,3,,,,,NaN,0.000
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 2,BST1,Q10588;A6NC48;H0Y984,7.36,2.5,1,,,,,4.30,0.000
+ADP-ribosylation factor 3;ADP-ribosylation factor 1;ADP-ribosylation factor 5,ARF3;ARF1;ARF5,P61204;P84077;B7ZB63;F5H423;P84085;C9J1Z8,6.68,9.9,2,,,,,NaN,0.000
+Afamin,AFM,P43652,10.28,26.2,15,,,,,8.12,0.000
+Alanine aminotransferase 1,GPT,P24298,7.30,4.0,2,+,,+,,4.20,0.000
+"Alanine--tRNA ligase, cytoplasmic",AARS,P49588;H3BPK7,6.71,2.2,2,,,,,NaN,0.000
+Alcohol dehydrogenase 1B;Alcohol dehydrogenase 1A;Alcohol dehydrogenase 1C,ADH1B;ADH1A;ADH1C,P00325;P07327;F5HB16;A8MYN5;P00326;B7ZB36,7.46,6.1,2,,,,,4.87,0.000
+Alcohol dehydrogenase 4,ADH4,P08319;P08319-2;D6R9K8,6.78,6.3,2,,,,,4.08,0.000
+"Aldehyde dehydrogenase X, mitochondrial",ALDH1B1,P30837;B4DLJ0,7.90,3.3,1,,,,,NaN,0.000
+"Aldehyde dehydrogenase, mitochondrial",ALDH2,P05091;F8VXI5;F8VP50;F8W0A9;E7EUE5,6.96,6.6,3,,,,,3.32,0.000
+"Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",MGAT1,P26572;D6RA48;D6RBS3;D6RAK2;D6R9U2;D6RD15;D6RB69;D6RHZ8;D6RF69,6.40,4.9,2,,,,,NaN,0.000
+Alpha-1-acid glycoprotein 1,ORM1,P02763,10.99,49.8,11,+,+,,,8.22,0.000
+Alpha-1-acid glycoprotein 2,ORM2,P19652,10.17,42.8,11,+,+,,,8.62,0.000
+Alpha-1-antichymotrypsin;Alpha-1-antichymotrypsin His-Pro-less,SERPINA3;GAA,P01011;G3V5I3;G3V595,11.11,58.9,24,,,,,8.04,0.000
+Alpha-1-antitrypsin;Short peptide from AAT,SERPINA1,P01009;P01009-2;P01009-3,11.79,69.1,33,+,+,,,8.39,0.000
+Alpha-1B-glycoprotein,A1BG,P04217,10.68,40.2,14,,,,,7.96,0.000
+Alpha-1B-glycoprotein,A1BG,P04217-2;B3KWB5,NaN,35.1,9,,,,,7.96,0.000
+Alpha-2-antiplasmin,SERPINF2,P08697;P08697-2;C9JMH6,10.69,48.3,20,+,+,,,7.74,0.000
+Alpha-2-HS-glycoprotein;Alpha-2-HS-glycoprotein chain A;Alpha-2-HS-glycoprotein chain B,AHSG,P02765;F5H0Q5;C9JV77,10.34,15.8,5,+,+,,,7.91,0.000
+Alpha-2-macroglobulin,A2M,P01023;H0YGH4,11.92,64.9,88,+,+,,,9.03,0.000
+Alpha-actinin-4,ACTN4,O43707;E7EV83;D6PXK4,8.14,4.2,4,,,,,5.08,0.000
+Alpha-enolase,ENO1,P06733;P06733-2,9.21,42.9,16,,,,,4.74,0.000
+Alpha-mannosidase 2,MAN2A1,Q16706,7.74,5.7,7,,,,,3.59,0.000
+Alpha-mannosidase 2x,MAN2A2,P49641;P49641-1;H0YNG5;H0YLB9;P49641-2,7.86,2.1,2,,,,,NaN,0.000
+Alpha-N-acetylglucosaminidase;Alpha-N-acetylglucosaminidase 82 kDa form;Alpha-N-acetylglucosaminidase 77 kDa form,NAGLU,P54802;H0Y3D8,7.50,7.3,3,,,,,3.15,0.000
+Aminoacylase-1,ACY1,Q03154;F8WC59;C9JYZ0;C9J9D8;C9JWD4;C9J6I6,6.65,3.2,1,,,,,4.48,0.002
+Aminopeptidase B,RNPEP,Q9H4A4;A6NKB8;C9JMZ3,NaN,2.3,1,,,,,NaN,0.000
+Aminopeptidase N,ANPEP,P15144;B4DP96,8.85,13.8,12,,,,,4.56,0.000
+Angiogenin,ANG,P03950,8.29,8.2,1,,,,,5.45,0.000
+Angiopoietin-related protein 3,ANGPTL3,Q9Y5C1,7.91,9.6,4,,,,,4.08,0.000
+Angiopoietin-related protein 6,ANGPTL6,Q8NI99,7.39,4.9,2,,,,,NaN,0.000
+"Angiotensin-converting enzyme;Angiotensin-converting enzyme, soluble form",ACE,P12821;P12821-2;P12821-4;P12821-3,7.88,3.1,4,+,+,,,3.87,0.000
+Angiotensinogen;Angiotensin-1;Angiotensin-2;Angiotensin-3;Angiotensin-4;Angiotensin 1-9;Angiotensin 1-7;Angiotensin 1-5;Angiotensin 1-4,AGT,P01019;E7EUC5,10.30,29.7,11,,,,,7.36,0.000
+Ankyrin repeat domain-containing protein 26,ANKRD26,Q9UPS8;E7ESJ3;Q9UPS8-3,7.04,0.6,1,,,,,3.86,0.009
+Annexin A1;Annexin,ANXA1,P04083;Q5T3N1,7.79,13.3,4,,,,,3.79,0.000
+Annexin A2;Annexin;Putative annexin A2-like protein,ANXA2;ANXA2P2,P07355;H0YN42;P07355-2;A6NMY6;H0YKS4;H0YMD0;H0YMU9;H0YMM1;H0YM50;H0YKZ7;H0YLV6;H0YMT9;H0YKX9,8.41,26.5,8,,,,,4.18,0.000
+Annexin A7;Annexin,ANXA7,P20073;B4DT77;B4DHY4;P20073-2,7.72,3.3,1,,,,,NaN,0.000
+Annexin;Annexin A5,ANXA5,D6RBL5;P08758;D6RBE9;E7ENQ5,7.70,17.7,5,,,,,3.90,0.000
+Anthrax toxin receptor 1,ANTXR1,Q9H6X2;Q9H6X2-3;Q9H6X2-4;Q9H6X2-2,7.56,5.9,3,,,,,NaN,0.000
+Anthrax toxin receptor 2,ANTXR2,P58335;P58335-4;P58335-2;P58335-3,8.06,6.5,3,,,,,NaN,0.000
+Antithrombin-III,SERPINC1,P01008,11.10,48.9,29,+,+,,,7.97,0.000
+Apolipoprotein A-I;Proapolipoprotein A-I;Truncated apolipoprotein A-I,APOA1,P02647;F8W696,11.98,87.3,38,+,+,,,9.00,0.000
+Apolipoprotein A-II;Proapolipoprotein A-II;Truncated apolipoprotein A-II,APOA2,P02652,11.10,69.0,9,,,,,8.49,0.000
+Apolipoprotein A-IV,APOA4,P06727,11.19,77.0,38,,,,,8.00,0.000
+Apolipoprotein A-V,APOA5,Q6Q788;C9JZZ0,7.75,9.6,3,,,,,4.96,0.000
+Apolipoprotein B-100;Apolipoprotein B-48,APOB,P04114;F5H109,11.83,63.4,255,+,+,,,8.48,0.000
+Apolipoprotein C-I;Truncated apolipoprotein C-I,APOC1,P02654,10.31,37.3,6,,,,,7.18,0.000
+Apolipoprotein C-II,APOC2,P02655,10.42,59.4,6,,,,,8.38,0.000
+Apolipoprotein C-III,APOC3,P02656,10.62,56.6,5,,,,,7.76,0.000
+Apolipoprotein C-IV,APOC4,P55056,8.86,16.5,2,,,,,9.36,0.000
+Apolipoprotein D,APOD,C9JF17;P05090;C9JX71,10.48,42.8,8,,,,,7.91,0.000
+Apolipoprotein E,APOE,P02649;H0Y7L5;E9PEV4;E7ERP7,10.61,76.7,26,,,,,7.22,0.000
+Apolipoprotein F,APOF,Q13790;F5GXS5,8.54,11.7,3,,,,,7.04,0.000
+Apolipoprotein L1,APOL1,O14791;O14791-2;E9PF24;G8JL88,10.23,40.5,18,,,,,6.08,0.000
+Apolipoprotein M,APOM,O95445,9.90,44.1,6,,,,,6.18,0.000
+Apolipoprotein M,APOM,Q5SRP5;Q5SRP4,NaN,27.1,4,,,,,6.18,0.000
+Apolipoprotein(a),LPA,P08519,8.38,8.4,6,+,+,,,3.15,0.000
+"Apoptosis-inducing factor 1, mitochondrial",AIFM1,O95831;Q1L6K4;O95831-4;O95831-3,6.91,4.9,2,,,,,3.15,0.002
+"Arachidonate 12-lipoxygenase, 12R-type",ALOX12B,O75342,6.03,1.3,1,,,,,NaN,0.001
+Argininosuccinate synthase,ASS1,P00966;Q5T6L5;Q5T6L6,7.71,8.5,4,,,,,3.30,0.000
+"Aspartate aminotransferase, cytoplasmic;Aspartate aminotransferase",GOT1,P17174;B7Z1I2;B7Z7E9,7.37,2.7,1,+,,+,,4.75,0.000
+"Aspartate aminotransferase, mitochondrial",GOT2,P00505;E7ERW2,7.72,7.9,2,,,,,4.04,0.000
+"ATP synthase subunit alpha, mitochondrial",ATP5A1,P25705;A8K092,8.97,13.2,6,,,,,3.40,0.000
+"ATP synthase subunit beta, mitochondrial;ATP synthase subunit beta",ATP5B,P06576;F8VPV9;H0YH81;F8W079,8.29,15.5,7,,,,,3.79,0.000
+"ATP synthase subunit delta, mitochondrial",ATP5D,P30049,6.68,8.3,1,,,,,NaN,0.001
+"ATP synthase subunit O, mitochondrial",ATP5O,P48047;H7C086;H7C068;H7C0C1,7.17,15.5,2,,,,,3.23,0.000
+"ATP synthase-coupling factor 6, mitochondrial",ATP5J,P18859;A8MUH2,6.34,18.5,1,,,,,NaN,0.000
+"ATPase inhibitor, mitochondrial",ATPIF1,Q9UII2,6.40,9.4,1,,,,,NaN,0.007
+ATP-binding cassette sub-family D member 3,ABCD3,P28288;F5GYC1;E7EUE1;P28288-3;P28288-2,7.56,2.1,1,,,,,NaN,0.000
+ATP-citrate synthase,ACLY,P53396;E7ENH9;P53396-2;B4E3P0,7.73,2.6,3,,,,,3.04,0.000
+ATP-dependent RNA helicase A,DHX9,Q08211,7.80,2.4,3,,,,,NaN,0.000
+ATP-dependent RNA helicase DDX19A;ATP-dependent RNA helicase DDX19B,DDX19A;DDX19B,Q9NUU7;Q9UMR2;H3BTB3;H3BMQ5;H3BN59;H3BQK0,7.37,4.0,1,,,,,NaN,0.000
+ATP-dependent RNA helicase DDX39A;Spliceosome RNA helicase DDX39B,DDX39A;DDX39B;DDX39;hCG_2005638,O00148;Q13838;F6WLT2;F8VZL8;Q5STU3;F8VQ10;Q8N5M0;Q13838-2;F6QWI5;F6U6E2;F6S2B7;F6SXL5;E7EMX2;H0YCC6;H0Y800;F8W0J0;H0Y400;F6V772;F6QYI9;H0Y557;F6R6M7;F6S4E6;F6UN21;F6TRA5;F6UJC5;E9PP12;B1Q2N1;H0Y7X6;H0Y7G4;B4DP52,7.08,2.3,1,,,,,NaN,0.000
+ATP-dependent RNA helicase DDX3X;ATP-dependent RNA helicase DDX3Y,DDX3X;DDX3Y,O00571;O15523;O00571-2;B4DXX7;C9J8G5;C9J081;B4E3C4;B4E132;B4DLU5,6.75,1.8,1,,,,,NaN,0.002
+Attractin,ATRN,O75882;H7BXY8;O75882-3;O75882-2,9.44,10.9,16,,,,,5.82,0.000
+"Barrier-to-autointegration factor;Barrier-to-autointegration factor, N-terminally processed",BANF1,O75531,7.44,15.7,1,,,,,NaN,0.000
+Basement membrane-specific heparan sulfate proteoglycan core protein;Endorepellin;LG3 peptide,HSPG2,P98160,7.30,0.4,2,,,,,5.08,0.000
+Basigin,BSG,P35613;I3L1R4;I3L4S8;I3NI00;P35613-3;P35613-4;P35613-2;I3L4L2;I3L192,6.70,2.3,1,,,,,NaN,0.000
+"Beta-1,4-galactosyltransferase 1;Lactose synthase A protein;N-acetyllactosamine synthase;Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase;Beta-N-acetylglucosaminyl-glycolipid beta-1,4-galactosyltransferase;Processed beta-1,4-galactosyltransferase 1",B4GALT1,P15291;F5H0P7;P15291-2;B4DMM8,6.65,4.8,2,,,,,NaN,0.001
+Beta-2-glycoprotein 1,APOH,P02749,10.26,25.2,8,,,,,7.93,0.000
+Beta-2-microglobulin;Beta-2-microglobulin form pI 5.3,B2M,P61769;F5H6I0,NaN,16.8,2,+,+,,,6.49,0.000
+Beta-Ala-His dipeptidase,CNDP1,Q96KN2,9.76,35.5,15,,,,,5.36,0.000
+Beta-hexosaminidase subunit alpha;Beta-hexosaminidase,HEXA,P06865;H3BS10;H3BP20;H3BU85;H3BTD4,7.92,3.6,2,,,,,NaN,0.000
+Beta-hexosaminidase subunit beta;Beta-hexosaminidase subunit beta chain B;Beta-hexosaminidase subunit beta chain A,HEXB,P07686;Q5URX0;H0YA83,6.58,2.0,1,,,,,3.18,0.000
+Bifunctional 3-phosphoadenosine 5-phosphosulfate synthase 1;Sulfate adenylyltransferase;Adenylyl-sulfate kinase,PAPSS1,O43252,7.08,2.2,1,,,,,NaN,0.000
+Bifunctional glutamate/proline--tRNA ligase;Glutamate--tRNA ligase;Proline--tRNA ligase,EPRS,P07814;F5H7I7;E7EMN0,7.39,3.4,4,,,,,NaN,0.000
+Biotinidase,BTD,P43251;F8W1Q3;B4DLJ9;A6NHF2;C9JSN9,9.37,26.2,10,+,+,,,5.69,0.000
+Bleomycin hydrolase,BLMH,Q13867;E7EMN3,6.46,1.5,1,,,,,3.52,0.000
+Bone morphogenetic protein 1,BMP1,P13497;P13497-4;P13497-5;P13497-2;P13497-6,7.62,2.2,2,,,,,4.23,0.000
+BPI fold-containing family B member 1,BPIFB1,Q8TDL5,7.30,2.7,1,,,,,3.52,0.000
+Brain acid soluble protein 1,BASP1,P80723;P80723-2,7.84,57.3,8,,,,,3.86,0.000
+Breast cancer metastasis-suppressor 1,BRMS1,Q9HCU9;E9PJF5;H0YCF7;G5E9I4,7.83,5.7,1,,,,,NaN,0.003
+C4b-binding protein alpha chain,C4BPA,P04003,10.32,20.1,12,,,,,7.04,0.000
+C4b-binding protein beta chain,C4BPB,P20851;P20851-2,8.78,15.1,4,,,,,5.72,0.000
+Cadherin-1;E-Cad/CTF1;E-Cad/CTF2;E-Cad/CTF3,CDH1,P12830;F5GYI6;H7BXH4;Q9UII8;H3BNC6,8.09,5.0,4,,,,,4.00,0.000
+Cadherin-13,CDH13,P55290;F5H6D5;B7Z590,8.38,9.1,6,,,,,5.08,0.000
+Cadherin-2,CDH2,P19022;A8MWK3,6.66,1.8,1,,,,,4.86,0.000
+Cadherin-5,CDH5,P33151;I3L1J2;E7EPJ8;F5H6D9,9.32,24.7,15,,,,,4.85,0.000
+Cadherin-6,CDH6,P55285;D6RF86;P55285-2,7.56,8.2,5,,,,,NaN,0.000
+Cadherin-related family member 5,CDHR5,Q9HBB8;C9J4E6;Q9HBB8-2;Q9HBB8-4,7.07,3.3,2,,,,,3.64,0.000
+Calcium-independent phospholipase A2-gamma,PNPLA8,Q9NP80;C9JN30;C9JZI4;Q9NP80-2,8.88,1.3,1,,,,,NaN,0.005
+Calcium-regulated heat stable protein 1,CARHSP1,Q9Y2V2,6.30,10.9,1,,,,,4.32,0.008
+Calcyclin-binding protein,CACYBP,Q9HB71;Q5R370;B3KSF1,7.48,17.5,3,,,,,NaN,0.000
+Caldesmon,CALD1,Q05682;Q05682-3;Q05682-6;Q05682-2;Q05682-4;E7EUR9;C9J813;E9PGZ1;F5H1Z9;E7EX44;Q05682-5,7.00,1.8,1,,,,,4.00,0.001
+Calmodulin-like protein 3,CALML3,P27482,7.31,4.7,1,,,,,NaN,0.000
+Calmodulin-like protein 5,CALML5,Q9NZT1,7.53,15.1,2,,,,,3.91,0.000
+Calnexin,CANX,P27824;B4E2T8;H0Y9Q7;D6RFL1;H0Y9H1;F5H856;D6RGY2;E7ETH2,7.90,10.5,5,,,,,NaN,0.000
+Calreticulin,CALR,P27797,7.77,9.1,4,,,,,5.00,0.000
+Calsyntenin-1;Soluble Alc-alpha;CTF1-alpha,CLSTN1,O94985;B4E3Q1;O94985-2;Q5SR54,7.37,2.0,2,,,,,3.90,0.000
+Calumenin,CALU,O43852;O43852-4;H0Y875;F5H1Q9;O43852-2;O43852-3,6.47,3.2,1,,,,,NaN,0.003
+"Carbamoyl-phosphate synthase [ammonia], mitochondrial",CPS1,P31327;H0YGP4;P31327-2,8.69,14.0,19,,,,,4.04,0.000
+Carbonic anhydrase 1,CA1,P00915;E5RHP7;E5RH81;E5RIF9;E5RG43;E5RGU8;E5RFL2;E5RFE7,8.69,35.2,8,,,,,5.77,0.000
+Carbonic anhydrase 2,CA2,P00918;E5RID5;E5RK37,NaN,3.5,1,,,,,4.62,0.000
+Carbonic anhydrase 6,CA6,F8W148;E7EMQ1;P23280;Q5FC00,7.10,7.5,1,,,,,NaN,0.006
+Carbonyl reductase [NADPH] 1,CBR1,P16152,6.96,4.0,1,,,,,NaN,0.009
+Carboxypeptidase B2,CPB2,Q96IY4;Q96IY4-2,9.31,20.1,9,,,,,5.85,0.000
+Carboxypeptidase N catalytic chain,CPN1,P15169,9.67,37.1,12,,,,,5.86,0.000
+Carboxypeptidase N subunit 2,CPN2,P22792,9.35,16.7,8,,,,,6.30,0.000
+Carboxypeptidase Q,CPQ,Q9Y646;E5RJA8,8.04,6.1,2,,,,,NaN,0.000
+Cartilage acidic protein 1,CRTAC1,Q9NQ79;Q9NQ79-3;Q9NQ79-2;Q5T4F6,8.95,20.3,12,,,,,4.43,0.000
+Cartilage intermediate layer protein 1;Cartilage intermediate layer protein 1 C1;Cartilage intermediate layer protein 1 C2,CILP,O75339,7.72,1.6,2,,,,,NaN,0.000
+Cartilage oligomeric matrix protein,COMP,G3XAP6;E9PFW4;B4DKJ3;P49747;CON__ENSEMBL:ENSBTAP00000006074,8.91,10.2,7,,,,,6.05,0.000
+Caspase recruitment domain-containing protein 9,CARD9,Q9H257;Q9H257-3;Q9H257-2,8.28,2.2,1,,,,,NaN,0.009
+Caspase-14;Caspase-14 subunit p19;Caspase-14 subunit p10,CASP14,P31944,8.67,8.3,2,,,,,3.28,0.000
+Catalase,CAT,P04040,8.37,14.4,6,,,,,5.34,0.000
+Cathelicidin antimicrobial peptide;Antibacterial protein FALL-39;Antibacterial protein LL-37,CAMP,P49913,8.10,9.4,2,,,,,5.57,0.000
+Cathepsin B;Cathepsin B light chain;Cathepsin B heavy chain,CTSB,P07858;B4DMY4;F5H2P9,6.96,7.4,2,,,,,4.97,0.000
+Cathepsin D;Cathepsin D light chain;Cathepsin D heavy chain,CTSD,P07339;F8WD96;C9JH19;F8W787,8.01,8.5,2,,,,,5.26,0.000
+Cathepsin F,CTSF,Q9UBX1;H0YD65,7.29,1.9,1,,,,,NaN,0.000
+Cathepsin L1;Cathepsin L1 heavy chain;Cathepsin L1 light chain,CTSL,P07711;Q5T8F0,7.08,3.6,1,,,,,3.94,0.000
+Cathepsin S,CTSS,P25774;P25774-2,7.70,11.2,4,,,,,3.71,0.000
+Cathepsin Z,CTSZ,Q9UBR2,6.50,4.0,1,,,,,4.08,0.000
+Cation-independent mannose-6-phosphate receptor,IGF2R,P11717,7.70,1.8,4,,,,,4.41,0.000
+CD109 antigen,CD109,Q6YHK3;Q6YHK3-4;Q6YHK3-2;Q6YHK3-3,8.17,6.3,7,,,,,4.28,0.000
+CD166 antigen,ALCAM,Q13740;Q13740-2;B4DTU0;F5GXJ9,7.66,3.6,2,,,,,4.56,0.000
+CD44 antigen,CD44,P16070;H0YD13;E7EPC6;P16070-18;P16070-12;P16070-14;P16070-13;P16070-11;P16070-10;P16070-16;P16070-8;P16070-17;P16070-6;P16070-4;P16070-3;P16070-7;P16070-5;H0YDW7;H0YCV9;H0Y2P0;H0Y5E4;P16070-15;P16070-9,8.88,5.0,3,,,,,4.54,0.000
+CD5 antigen-like,CD5L,O43866,8.79,11.8,5,,,,,6.75,0.000
+CDGSH iron-sulfur domain-containing protein 1,CISD1,Q9NZ45,6.46,13.9,1,,,,,NaN,0.002
+Cell adhesion molecule 1,CADM1,Q9BY67;H3BM05;Q9BY67-2;H0YGA7;F5H0J4;F5H125;H0YG94,6.96,1.8,1,,,,,4.51,0.000
+Cell surface glycoprotein MUC18,MCAM,P43121;P43121-2,8.22,8.7,5,,,,,4.40,0.000
+Centromere-associated protein E,CENPE,Q02224;F8W957;Q02224-3;Q02224-2;D6RBW0,7.01,0.4,1,,,,,NaN,0.000
+Ceruloplasmin,CP,P00450;E9PFZ2;H7C5R1,11.20,62.3,54.99999,+,+,,,8.23,0.000
+Chloride intracellular channel protein 1,CLIC1,O00299,7.49,12.0,3,,,,,4.34,0.000
+Cholesteryl ester transfer protein,CETP,P11597;P11597-2;H3BRJ9,8.89,26.0,11,,,,,6.18,0.000
+Cholinesterase,BCHE,P06276;F8WF14;F8WEX7,9.30,14.5,8,+,+,,,5.23,0.000
+Chondroadherin,CHAD,O15335,7.56,7.2,2,,,,,NaN,0.000
+Chondroitin sulfate proteoglycan 4,CSPG4,Q6UVK1,7.19,0.9,2,,,,,NaN,0.000
+Chromodomain-helicase-DNA-binding protein 3;Chromodomain-helicase-DNA-binding protein 4;Chromodomain-helicase-DNA-binding protein 5,CHD3;CHD4;CHD5,Q12873;Q12873-2;E9PG89;Q14839;Q8TDI0;F5H2K7;F5GXP9;B1AK51;F2Z2R5;F5H2G1;F5GWX5;Q14839-2,7.61,1.0,2,,,,,NaN,0.000
+Chromogranin-A;Vasostatin-1;Vasostatin-2;EA-92;ES-43;Pancreastatin;SS-18;WA-8;WE-14;LF-19;AL-11;GV-19;GR-44;ER-37,CHGA,P10645;G5E968,7.09,4.6,2,,,,,4.92,0.000
+"Citrate synthase, mitochondrial;Citrate synthase",CS,O75390;B4DJV2;H0YIC4,7.54,4.9,2,,,,,NaN,0.000
+Clusterin;Clusterin beta chain;Clusterin alpha chain;Clusterin,CLU,P10909;P10909-4;P10909-5;P10909-2;E7ETA7;P10909-3;H0YC35;H0YLK8,10.80,41.6,20,,,,,7.95,0.000
+Coagulation factor IX;Coagulation factor IXa light chain;Coagulation factor IXa heavy chain,F9,P00740,8.93,15.4,7,+,+,,,6.04,0.000
+Coagulation factor V;Coagulation factor V heavy chain;Coagulation factor V light chain,F5,P12259,10.12,24.7,48,,,,,6.62,0.000
+Coagulation factor VII;Factor VII light chain;Factor VII heavy chain,F7,P08709;F5H8B0;P08709-2,8.86,7.1,2,,,,,5.47,0.000
+"Coagulation factor VIII;Factor VIIIa heavy chain, 200 kDa isoform;Factor VIIIa heavy chain, 92 kDa isoform;Factor VIII B chain;Factor VIIIa light chain",F8,P00451,8.75,1.7,3,,,,,2.92,0.000
+Coagulation factor X;Factor X light chain;Factor X heavy chain;Activated factor Xa heavy chain,F10,P00742,9.09,17.2,8,+,+,,,5.70,0.000
+Coagulation factor XI;Coagulation factor XIa heavy chain;Coagulation factor XIa light chain,F11,P03951;E9PGP2;P03951-2,9.17,17.1,11,,,,,4.80,0.000
+Coagulation factor XII;Coagulation factor XIIa heavy chain;Beta-factor XIIa part 1;Beta-factor XIIa part 2;Coagulation factor XIIa light chain,F12,P00748,9.80,10.4,6,,,,,6.98,0.000
+Coagulation factor XIII A chain,F13A1,P00488;F5H080,9.64,28.8,20,+,+,,,7.26,0.000
+Coagulation factor XIII B chain,F13B,P05160,9.13,19.4,11,+,+,,,7.16,0.000
+Coatomer subunit beta,COPB1,P53618,7.11,1.4,1,,,,,NaN,0.005
+Cofilin-1,CFL1,P23528;G3V1A4;E9PP50;E9PK25;E9PQB7;E9PLJ3;E9PS23,8.18,36.7,6,,,,,5.15,0.000
+Coiled-coil domain-containing protein 122,CCDC122,Q5T0U0;B7ZMJ0;Q5T0U0-2,7.70,5.1,1,,,,,NaN,0.008
+Collagen alpha-1(I) chain,COL1A1,P02452,6.98,0.7,1,,,,,5.59,0.000
+Collagen alpha-1(VI) chain,COL6A1,P12109,7.17,2.1,2,,,,,4.41,0.000
+Collagen alpha-1(XII) chain,COL12A1,Q99715;D6RGG3;Q99715-4,7.76,0.4,1,,,,,NaN,0.000
+Collagen alpha-1(XV) chain;Restin;Restin-2;Restin-3;Restin-4,COL15A1,P39059,NaN,0.5,1,,,,,3.94,0.000
+Collagen alpha-1(XVIII) chain;Endostatin,COL18A1,P39060;F8WDA7;F5GZA2;P39060-2;P39060-1;H7BXV5;H7C457,8.03,2.0,3,,,,,4.54,0.000
+Collagen alpha-2(VI) chain,COL6A2,P12110;P12110-3;P12110-2,6.92,1.8,2,,,,,NaN,0.000
+Collagen alpha-3(VI) chain,COL6A3,P12111;E9PCV6;E7ENL6;P12111-2;E9PFQ6;E9PGQ9;P12111-3,8.14,4.4,12,,,,,5.00,0.000
+Collectin-10,COLEC10,Q9Y6Z7,8.22,8.7,2,,,,,3.67,0.000
+Collectin-11,COLEC11,Q9BWP8;Q9BWP8-9;Q9BWP8-8;Q9BWP8-7;Q9BWP8-6;Q9BWP8-5;Q9BWP8-4;Q9BWP8-3;Q9BWP8-2,8.57,21.8,4,,,,,NaN,0.000
+Complement C1q subcomponent subunit A,C1QA,P02745,9.36,18.0,5,+,+,,,6.08,0.000
+Complement C1q subcomponent subunit B,C1QB,P02746;D6R934;D6RA08,9.75,28.5,6,+,+,,,5.97,0.000
+Complement C1q subcomponent subunit C,C1QC,P02747,9.61,21.2,4,+,+,,,5.96,0.000
+Complement C1q tumor necrosis factor-related protein 5,C1QTNF5,Q9BXJ0,NaN,6.2,1,,,,,NaN,0.003
+Complement C1r subcomponent;Complement C1r subcomponent heavy chain;Complement C1r subcomponent light chain,C1R,P00736,10.16,26.1,18,+,+,,,6.63,0.000
+Complement C1r subcomponent-like protein,C1RL,Q9NZP8;E7ER29;H0YFL7,9.42,13.1,7,,,,,5.41,0.000
+Complement C1s subcomponent;Complement C1s subcomponent heavy chain;Complement C1s subcomponent light chain,C1S,P09871;F8WCZ6,7.95,29.8,18,+,+,,,6.72,0.002
+Complement C2;Complement C2b fragment;Complement C2a fragment,C2,P06681;E9PFN7;B4DQI1;P06681-2;Q5ST57;H0Y3H6;E9PDZ0;B3KTX9;A2ABK0,9.42,35.9,24,,,,,7.54,0.000
+Complement C3;Complement C3 beta chain;C3-beta-c;Complement C3 alpha chain;C3a anaphylatoxin;Acylation stimulating protein;Complement C3b alpha chain;Complement C3c alpha chain fragment 1;Complement C3dg fragment;Complement C3g fragment;Complement C3d fragment;Complement C3f fragment;Complement C3c alpha chain fragment 2,C3,P01024;B4E216,11.81,76.5,124,+,+,,,9.05,0.000
+Complement C4-A;Complement C4 beta chain;Complement C4-A alpha chain;C4a anaphylatoxin;C4b-A;C4d-A;Complement C4 gamma chain,C4A,B0V2C8;B0UZ83;F8VZD8;F8VW91,10.02,55.8,85,,,,,8.23,0.000
+Complement C4-B;Complement C4 beta chain;Complement C4-B alpha chain;C4a anaphylatoxin;C4b-B;C4d-B;Complement C4 gamma chain,C4B,A2BHY4;F8VX64;Q6U2E9;F5GXS0,11.48,56.9,85,,,,,7.99,0.000
+Complement C4-B;Complement C4 beta chain;Complement C4-B alpha chain;C4a anaphylatoxin;C4b-B;C4d-B;Complement C4 gamma chain;Complement C4-A;Complement C4 beta chain;Complement C4-A alpha chain;C4a anaphylatoxin;C4b-A;C4d-A;Complement C4 gamma chain,C4B;C4A,P0C0L5;P0C0L4,6.62,56.1,85,+,+,,,8.13,0.000
+Complement C5;Complement C5 beta chain;Complement C5 alpha chain;C5a anaphylatoxin;Complement C5 alpha chain,C5,P01031;H0Y4U2,10.64,41.9,59,+,+,,,NaN,0.000
+Complement component C6,C6,P13671,10.22,22.7,18,,,,,6.57,0.000
+Complement component C7,C7,P10643;E7EPA5,10.12,19.5,15,,,,,6.41,0.000
+Complement component C8 alpha chain,C8A,P07357,9.65,22.9,10,,,,,6.38,0.000
+Complement component C8 beta chain,C8B,P07358;F5GY80;F5H7G1,9.83,28.6,15,,,,,6.45,0.000
+Complement component C8 gamma chain,C8G,P07360;Q5SQ08,9.34,47.0,7,,,,,6.04,0.000
+Complement component C9;Complement component C9a;Complement component C9b,C9,P02748,10.23,30.9,18,,,,,6.98,0.000
+Complement factor B;Complement factor B Ba fragment;Complement factor B Bb fragment,CFB,B4E1Z4;E7EVA3;P00751,10.81,41.5,49,+,+,,,6.10,0.000
+Complement factor D,CFD,P00746,9.19,37.2,7,,,,,6.40,0.000
+Complement factor H,CFH,P08603;P08603-2,10.46,32.0,35,,,,,7.62,0.000
+Complement factor H-related protein 1,CFHR1,B1AKG0;Q03591,9.39,24.7,6,,,,,7.76,0.000
+Complement factor H-related protein 2,CFHR2,P36980-2;P36980,7.31,25.5,6,,,,,7.76,0.000
+Complement factor H-related protein 3,CFHR3,Q02985;Q02985-2;F5H414;Q6NSD3,7.75,10.6,4,,,,,5.15,0.000
+Complement factor H-related protein 5,CFHR5,Q9BXR6,8.21,6.3,4,,,,,4.04,0.000
+Complement factor I;Complement factor I heavy chain;Complement factor I light chain,CFI,P05156;G3XAM2;E7ETH0,10.10,27.6,16,,,,,3.76,0.000
+Complement receptor type 1,CR1,P17927;E9PQN4;Q5SR44;E9PDY4;H7BYX0;H0YE06,6.85,0.4,1,,,,,NaN,0.000
+Complement receptor type 2,CR2,P20023;Q5SR47;C9J0D9;P20023-2;P20023-4;P20023-3,7.10,1.1,1,,,,,3.30,0.000
+Contactin-1,CNTN1,Q12860;Q12860-2,8.68,12.7,11,,,,,4.15,0.000
+Contactin-3,CNTN3,Q9P232,7.15,1.8,2,,,,,NaN,0.000
+Contactin-4,CNTN4,Q8IWV2;Q8IWV2-3;G3XAD4;B2RAX3,7.88,2.2,2,,,,,NaN,0.000
+COP9 signalosome complex subunit 5,COPS5,Q92905,6.55,4.5,1,,,,,NaN,0.005
+Corticosteroid-binding globulin,SERPINA6,P08185,10.24,29.9,10,,,,,6.08,0.000
+Corticotropin-releasing factor-binding protein,CRHBP,P24387;D6RHH7,7.08,7.5,2,,,,,NaN,0.000
+C-reactive protein;C-reactive protein(1-205),CRP,P02741;Q5VVP7;P02741-2,7.80,18.8,4,+,+,,,6.33,0.000
+Creatine kinase B-type,CKB,P12277;G3V4N7;E7EUJ8,6.75,5.0,1,+,,+,,4.81,0.002
+"Creatine kinase M-type;Creatine kinase M-type, N-terminally processed",CKM,P06732,7.54,8.9,4,+,,+,,4.93,0.000
+C-type lectin domain family 11 member A,CLEC11A,Q9Y240;C9JXV2,7.04,7.7,2,,,,,NaN,0.000
+Cyclic AMP-dependent transcription factor ATF-6 alpha;Processed cyclic AMP-dependent transcription factor ATF-6 alpha,ATF6,P18850,7.09,1.8,1,,,,,NaN,0.000
+Cyclic nucleotide-gated cation channel alpha-3,CNGA3,Q16281;E9PF93;Q16281-2,7.71,2.4,1,,,,,NaN,0.002
+Cyclin-dependent kinase 11B;Cyclin-dependent kinase 11A;Protein-tyrosine kinase 6,CDK11B;CDK11A;PTK6,P21127;Q9UQ88;P21127-12;P21127-9;Q5QPR4;Q5QPR3;Q9UQ88-5;Q9UQ88-10;P21127-4;P21127-5;P21127-10;P21127-6;Q9UQ88-4;P21127-8;Q9UQ88-3;Q9UQ88-2;P21127-3;P21127-2;Q13882;Q9UQ88-9,6.87,1.3,1,,,,,NaN,0.007
+"Cystatin-A;Cystatin-A, N-terminally processed",CSTA,P01040;C9J0E4,7.70,39.8,3,,,,,4.20,0.000
+Cystatin-B,CSTB,P04080,6.70,36.7,2,,,,,4.89,0.000
+Cystatin-C,CST3,P01034,8.58,24.7,3,+,+,,,6.68,0.000
+Cysteine and glycine-rich protein 1,CSRP1,E9PS42;P21291;E9PND2;E9PP21,7.45,15.7,2,,,,,3.88,0.001
+Cysteine-rich secretory protein 3,CRISP3,P54108;I3L0A1;P54108-2;P54108-3,7.27,6.5,1,,,,,0.80,0.000
+"Cytochrome b-c1 complex subunit 2, mitochondrial",UQCRC2,P22695;H3BRG4,6.35,3.5,1,,,,,NaN,0.000
+Cytochrome c,CYCS,P99999;C9JFR7;CON__P62894,7.13,23.8,2,,,,,3.90,0.000
+Cytochrome c oxidase subunit 2,MT-CO2,P00403,7.42,4.4,1,,,,,NaN,0.008
+Cytoplasmic dynein 1 heavy chain 1,DYNC1H1,Q14204,NaN,0.5,2,,,,,NaN,0.000
+D-3-phosphoglycerate dehydrogenase,PHGDH,O43175;F5H634;Q5SZU1,NaN,1.7,1,,,,,NaN,0.000
+Decorin,DCN,P07585;H0YIH3;F8VNV6;P07585-3;P07585-2,6.62,2.5,1,,,,,NaN,0.001
+"Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial",ECH1,Q13011,NaN,5.2,1,,,,,NaN,0.008
+"Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial",ALDH4A1,P30038;P30038-2;D2D4A3,8.17,1.6,1,,,,,NaN,0.000
+Dermcidin;Survival-promoting peptide;DCD-1,DCD,P81605;P81605-2,8.73,30.9,3,,,,,5.11,0.000
+Dermokine,DMKN,Q6E0U4-2;E7EUS0;Q6E0U4-6;C9J4P6;Q6E0U4-5;Q6E0U4;H7C145;H7BZ95;C9IYI1;CON__A3EZ82;Q6E0U4-7;Q6E0U4-3;Q6E0U4-4,7.42,5.8,2,,,,,4.30,0.000
+Desmocollin-1,DSC1,Q08554-2;Q08554,8.16,4.3,3,,,,,4.72,0.000
+Desmocollin-2,DSC2,Q02487-2;Q02487;F8W7U2,6.35,2.5,2,,,,,3.43,0.000
+Desmocollin-3,DSC3,Q14574-2;Q14574,NaN,0.8,1,,,,,4.43,0.001
+Desmoglein-1,DSG1,Q02413,7.13,3.5,3,,,,,4.15,0.000
+Desmoglein-2,DSG2,Q14126,8.23,4.8,4,,,,,3.43,0.000
+Desmoplakin,DSP,P15924;P15924-2,8.20,7.0,21,,,,,4.30,0.000
+Destrin,DSTN,P60981;F6RFD5;P60981-2,NaN,4.2,1,,,,,3.18,0.000
+Dickkopf-related protein 3,DKK3,Q9UBP4;E7EUD0;F6SYF8;E9PKK9;E9PHY3;E9PKW6,7.22,9.4,2,,,,,4.18,0.000
+"Dihydrolipoyl dehydrogenase, mitochondrial",DLD,P09622;F5H4I0;E9PEX6;B4DHG0;B4DT69,6.69,2.2,1,,,,,3.59,0.000
+"Dimethylglycine dehydrogenase, mitochondrial",DMGDH,Q9UI17,8.06,2.1,1,,,,,3.20,0.000
+Di-N-acetylchitobiase,CTBS,Q01459,8.65,22.6,7,,,,,5.56,0.000
+Dipeptidyl peptidase 1;Dipeptidyl peptidase 1 exclusion domain chain;Dipeptidyl peptidase 1 heavy chain;Dipeptidyl peptidase 1 light chain,CTSC,P53634;F5HGG6;H0YCY8,NaN,4.8,2,,,,,6.89,0.000
+Dipeptidyl peptidase 4;Dipeptidyl peptidase 4 membrane form;Dipeptidyl peptidase 4 soluble form,DPP4,P27487,8.06,11.1,8,,,,,3.78,0.000
+Disabled homolog 2,DAB2,P98082;P98082-2;P98082-3,6.51,1.6,1,,,,,NaN,0.001
+"Discoidin, CUB and LCCL domain-containing protein 1",DCBLD1,Q8N8Z6;Q8N8Z6-2;Q5H993,6.72,1.4,1,,,,,NaN,0.000
+DNA-dependent protein kinase catalytic subunit,PRKDC,P78527;E7EUY0;P78527-2,5.87,0.7,2,,,,,NaN,0.000
+Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1,RPN1,P04843;B4DNJ5;B7Z4L4;F5H6I5,6.87,4.8,2,,,,,NaN,0.000
+Dopamine beta-hydroxylase;Soluble dopamine beta-hydroxylase,DBH,P09172,8.75,16.2,8,,,,,5.04,0.000
+"Dynein light chain 2, cytoplasmic;Dynein light chain 1, cytoplasmic",DYNLL2;DYNLL1,Q96FJ2;P63167,NaN,13.5,1,,,,,NaN,0.003
+Dystroglycan;Alpha-dystroglycan;Beta-dystroglycan,DAG1,Q14118;E9PE70,7.46,1.7,1,,,,,4.53,0.000
+Ecto-ADP-ribosyltransferase 3,ART3,Q13508;E7ESB3;Q13508-2;Q13508-3;E7ER42,6.71,3.6,1,,,,,4.48,0.000
+Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,ENPP2,Q13822;Q13822-3;E7EUF1;E9PHP7;Q13822-2;E5RIA2,6.89,2.1,2,,,,,4.59,0.000
+"EGF, latrophilin and seven transmembrane domain-containing protein 1",ELTD1,Q9HBW9,6.63,3.2,2,,,,,3.45,0.000
+EGF-containing fibulin-like extracellular matrix protein 1,EFEMP1,Q12805;B4DW75;Q12805-2;Q12805-4;Q12805-3;E9PGL6,8.25,11.4,5,,,,,5.41,0.000
+Electron transfer flavoprotein subunit beta,ETFB,P38117;P38117-2,6.77,10.6,2,,,,,NaN,0.000
+Elongation factor 1-alpha 1;Putative elongation factor 1-alpha-like 3;Elongation factor 1-alpha 2,EEF1A1;EEF1A1P5;EEF1A2,P68104;Q5VTE0;Q6IQ15;F8W6I0;Q05639,8.98,34.8,13,,,,,4.79,0.000
+Elongation factor 1-delta,EEF1D,P29692;P29692-2;E9PK01;E9PRY8;P29692-3;E9PMW7;E9PPR1;E9PL12;E9PQ49;E9PI39;F8W934;E9PN91;E9PIZ1;E9PL71;H0YCK7;E9PQZ1;E9PBQ9,7.66,16.0,3,,,,,NaN,0.000
+Elongation factor 1-gamma,EEF1G,P26641;B4DTG2;B4DUP0,8.36,8.5,3,,,,,NaN,0.000
+Elongation factor 2,EEF2,P13639;B4DPU3;F5H370,8.47,14.7,12,,,,,4.48,0.000
+Elongation factor Tu GTP-binding domain-containing protein 1,EFTUD1,Q7Z2Z2;Q7Z2Z2-2,6.22,0.9,1,,,,,NaN,0.003
+Endoglin,ENG,P17813;P17813-2;F5GX88,8.04,5.3,3,,,,,3.84,0.000
+Endoplasmic reticulum aminopeptidase 1,ERAP1,Q9NZ08;Q9NZ08-2,7.42,1.0,1,,,,,3.71,0.000
+Endoplasmic reticulum aminopeptidase 2,ERAP2,Q6P179;Q6P179-3;H0Y9X9;D6RGW0;Q6P179-4;Q6P179-2,7.28,1.8,1,,,,,2.99,0.000
+Endoplasmic reticulum resident protein 29,ERP29,P30040;F8VY02,7.24,9.6,2,,,,,3.78,0.008
+Endoplasmin,HSP90B1,P14625;E9PEX3,8.67,23.4,16,,,,,4.94,0.000
+Endosialin,CD248,Q9HCU0,6.94,1.3,1,,,,,NaN,0.000
+Endothelial cell-selective adhesion molecule,ESAM,Q96AP7;F8WDW9;C9JIE7,6.19,3.6,1,,,,,3.66,0.001
+Endothelial protein C receptor,PROCR,Q9UNN8,7.59,9.2,2,,,,,5.05,0.000
+Enhancer of rudimentary homolog,ERH,P84090;G3V279,NaN,10.6,1,,,,,NaN,0.000
+"Enoyl-CoA delta isomerase 1, mitochondrial",ECI1;DCI,P42126;H3BP91;P42126-2;H3BS70;Q96DC0,6.96,3.3,1,,,,,3.64,0.000
+Epidermal growth factor receptor,EGFR,P00533;P00533-4;P00533-3;Q504U8;E9PFD7;P00533-2,7.27,2.0,2,,,,,4.06,0.000
+Epididymal secretory protein E1,NPC2,P61916;H0YIZ1;G3V3E8;E7EMS2;G3V3D1;G3V2V8;B4DQV7,6.38,11.9,2,,,,,5.36,0.000
+Epiplakin,EPPK1,P58107;E9PPU0,NaN,1.2,1,,,,,3.45,0.000
+ER membrane protein complex subunit 2,EMC2,Q15006,7.03,4.4,1,,,,,NaN,0.002
+ER membrane protein complex subunit 3,EMC3,Q9P0I2;Q9P0I2-2,7.33,5.4,1,,,,,NaN,0.000
+Eukaryotic initiation factor 4A-I,EIF4A1,P60842,7.37,17.5,5,,,,,3.60,0.000
+"Eukaryotic initiation factor 4A-III;Eukaryotic initiation factor 4A-III, N-terminally processed",EIF4A3,P38919;I3L2Z3;I3L3H2;I3L3F6,NaN,2.9,1,,,,,NaN,0.000
+Eukaryotic peptide chain release factor GTP-binding subunit ERF3B;Eukaryotic peptide chain release factor GTP-binding subunit ERF3A,GSPT2;GSPT1,Q8IYD1;P15170;P15170-2;H3BR35;F5GWG9,5.77,1.6,1,,,,,NaN,0.000
+Eukaryotic translation initiation factor 1;Eukaryotic translation initiation factor 1b,EIF1;EIF1B,P41567;O60739,7.41,14.2,1,,,,,NaN,0.001
+Eukaryotic translation initiation factor 3 subunit E,EIF3E,P60228;H0YBR5;E5RIP5;E5RJ25;H0YBP5;E5RII3;E5RIT4;E5RHS5,7.34,4.7,2,,,,,NaN,0.002
+Eukaryotic translation initiation factor 3 subunit G,EIF3G,O75821,7.21,2.8,1,,,,,NaN,0.002
+Eukaryotic translation initiation factor 4 gamma 1,EIF4G1,Q04637;Q04637-3;C9J6B6;C9JF13;E7EX73;E9PGM1;E7EUU4;Q04637-5;Q04637-4;E9PFM1;F8WCF2;C9JHW9;C9J2Z7;C9K073;Q04637-6;G5E9S1,5.86,1.4,2,,,,,NaN,0.001
+Eukaryotic translation initiation factor 4H,EIF4H,Q15056;Q15056-2,7.34,9.3,1,,,,,NaN,0.000
+Eukaryotic translation initiation factor 5A-1;Eukaryotic translation initiation factor 5A-2;Eukaryotic translation initiation factor 5A-1-like,EIF5A;EIF5A2;EIF5AL1,P63241;I3L397;I3L504;P63241-2;Q9GZV4;F8WCJ1;C9J7B5;C9J4W5;Q6IS14,8.23,32.5,5,,,,,4.59,0.000
+Eukaryotic translation initiation factor 5B,EIF5B,O60841,6.33,0.9,1,,,,,NaN,0.008
+Exostosin-1,EXT1,Q16394,6.94,2.4,2,,,,,NaN,0.000
+Exostosin-like 2;Processed exostosin-like 2,EXTL2,Q9UBQ6;F5GZK1;C9JEG3,7.40,8.2,3,,,,,NaN,0.000
+Exportin-2,CSE1L,P55060;E7EPX1;B4DUC5;F8W904;P55060-3,6.94,3.5,3,,,,,NaN,0.000
+Extracellular matrix protein 1,ECM1,Q16610;Q16610-4,9.12,19.6,10,,,,,5.89,0.000
+Extracellular serine/threonine protein kinase FAM20C,FAM20C,Q8IXL6,6.97,3.1,1,,,,,NaN,0.000
+Extracellular superoxide dismutase [Cu-Zn],SOD3,P08294,8.37,8.8,2,,,,,5.07,0.000
+Ezrin,EZR,P15311;E7EQR4,6.39,8.0,5,,,,,4.67,0.002
+F-actin-capping protein subunit alpha-1,CAPZA1,P52907,NaN,3.5,1,,,,,3.66,0.001
+F-actin-capping protein subunit alpha-2,CAPZA2,P47755;C9JUG7;F8W9N7;B4DG50,6.94,3.5,1,,,,,NaN,0.000
+Far upstream element-binding protein 2,KHSRP,Q92945;Q92945-2,6.70,1.4,1,,,,,NaN,0.001
+Farnesyl pyrophosphate synthase,FDPS,P14324;E9PCI9,6.72,4.3,1,,,,,3.28,0.002
+Fascin,FSCN1,Q16658,7.49,3.9,2,,,,,3.26,0.000
+Fatty acid synthase;[Acyl-carrier-protein] S-acetyltransferase;[Acyl-carrier-protein] S-malonyltransferase;3-oxoacyl-[acyl-carrier-protein] synthase;3-oxoacyl-[acyl-carrier-protein] reductase;3-hydroxyacyl-[acyl-carrier-protein] dehydratase;Enoyl-[acyl-carrier-protein] reductase;Oleoyl-[acyl-carrier-protein] hydrolase,FASN,P49327,7.51,2.6,6,,,,,3.68,0.000
+"Fatty acid-binding protein, adipocyte;Myelin P2 protein",FABP4;PMP2,P15090;P02689;E5RIR0;E5RH45,6.63,6.8,1,,,,,4.62,0.003
+"Fatty acid-binding protein, epidermal",FABP5,Q01469,7.01,6.7,1,,,,,4.60,0.000
+Fc receptor-like protein 5,FCRL5,Q96RD9;A6NJE8;Q96RD9-3;F5GXJ2;Q96RD9-4;Q96RD9-5,7.23,1.9,2,,,,,NaN,0.000
+Fermitin family homolog 3,FERMT3,Q86UX7;Q86UX7-2;F5H1C6,8.18,3.3,2,,,,,4.51,0.000
+Ferritin light chain,FTL,P02792;F5H1X1,7.44,17.1,2,+,+,,,4.08,0.000
+Fetuin-B,FETUB,Q9UGM5;E9PG06;E9PG08;B7Z8T3,8.71,8.1,3,,,,,5.43,0.000
+Fibrinogen alpha chain;Fibrinopeptide A;Fibrinogen alpha chain,FGA,P02671,11.57,52.3,51,+,+,,,9.01,0.000
+Fibrinogen alpha chain;Fibrinopeptide A;Fibrinogen alpha chain,FGA,P02671-2,NaN,65.4,48,,,,,9.01,0.003
+Fibrinogen beta chain;Fibrinopeptide B;Fibrinogen beta chain,FGB,P02675;B4E1D3;D6REL8,11.42,65.2,34,+,+,,,8.54,0.000
+Fibrinogen gamma chain,FGG,P02679;P02679-2;C9JC84;C9JEU5,11.36,69.8,31,+,+,,,8.43,0.000
+Fibrinogen-like protein 1,FGL1,Q08830;E7ERS0,8.17,9.6,3,,,,,3.36,0.000
+Fibroblast growth factor receptor 1,FGFR1,P11362;P11362-11;P11362-10;P11362-9;P11362-8;P11362-4;P11362-3;P11362-20;P11362-2;P11362-16;P11362-13;P11362-12;P11362-6;P11362-5;E9PNM3;E9PN14;E9PKV7,7.61,1.6,1,,,,,3.30,0.000
+Fibrocystin-L,PKHD1L1,Q86WI1,6.73,0.4,1,,,,,NaN,0.000
+Fibronectin;Anastellin;Ugl-Y1;Ugl-Y2;Ugl-Y3,FN1,P02751;P02751-8;P02751-3;P02751-15;P02751-14;P02751-7;E9PE77;E7ERA1;P02751-9;P02751-11;P02751-5;P02751-10;P02751-6;F8W7G7;P02751-13;P02751-4;P02751-12;H0Y7Z1,10.80,31.3,54.99999,+,+,,,7.64,0.000
+Fibulin-1,FBLN1,P23142-4;B1AHL2,8.31,11.0,6,,,,,7.23,0.000
+Fibulin-1,FBLN1,P23142;P23142-3;F8W7M9;CON__ENSEMBL:ENSBTAP00000016046,9.49,18.5,11,,,,,7.23,0.000
+Ficolin-1,FCN1,O00602,6.38,9.2,3,,,,,6.28,0.000
+Ficolin-2,FCN2,Q15485;Q15485-2,8.64,14.7,6,,,,,4.43,0.000
+Ficolin-3,FCN3,O75636;O75636-2,9.52,28.8,9,,,,,6.00,0.000
+Filaggrin,FLG,P20930;CON__P20930,6.72,0.2,1,,,,,2.91,0.000
+Filaggrin-2,FLG2,Q5D862;CON__Q5D862,7.29,0.8,2,,,,,3.66,0.000
+Filamin-A,FLNA,P21333;Q5HY54;P21333-2;A6NDY9,7.94,3.4,7,,,,,5.61,0.000
+Filamin-B,FLNB,O75369;O75369-8;O75369-6;O75369-3;O75369-2;O75369-9;E7EN95;O75369-5;O75369-4;O75369-7,7.57,1.6,4,,,,,3.96,0.000
+Flavin reductase (NADPH),BLVRB,P30043,7.78,20.9,3,,,,,5.15,0.000
+Follistatin-related protein 1,FSTL1,Q12841;B4DTZ8;B4DTT5,7.78,2.3,1,,,,,3.56,0.002
+"Fructose-1,6-bisphosphatase 1",FBP1,P09467,7.15,15.1,3,,,,,4.67,0.000
+Fructose-bisphosphate aldolase A,ALDOA,P04075;H3BQN4;H3BUH7;H3BR04;H3BPS8,8.55,36.8,11,+,,+,,5.40,0.000
+Fructose-bisphosphate aldolase B,ALDOB,P05062;C9J4K3;Q5T7D5,8.51,27.2,7,+,,+,,5.38,0.000
+Fructose-bisphosphate aldolase C,ALDOC,P09972;A8MVZ9;B7Z3K7;C9J8F3;B7Z1N6,6.03,3.8,1,,,,,5.40,0.000
+"Fumarate hydratase, mitochondrial",FH,P07954;P07954-2,6.33,4.9,2,,,,,3.69,0.000
+Fumarylacetoacetase,FAH,P16930;Q53XA7;H0YLC7,6.58,2.9,1,,,,,4.75,0.000
+Galectin-1,LGALS1,P09382,7.56,5.9,1,,,,,4.91,0.000
+Galectin-3,LGALS3,P17931,7.21,8.4,2,,,,,NaN,0.000
+Galectin-3-binding protein,LGALS3BP,Q08380;B4DVE1;B4DI70,9.35,24.6,12,,,,,5.64,0.000
+Galectin-7,LGALS7,P47929,NaN,8.8,1,,,,,NaN,0.000
+Gamma-glutamyl hydrolase,GGH,Q92820,8.59,10.4,3,,,,,5.40,0.000
+Gamma-glutamylcyclotransferase,GGCT,O75223;H7BZK5;E7EU55;B8ZZK2,7.17,6.9,1,,,,,NaN,0.000
+GDH/6PGL endoplasmic bifunctional protein;Glucose 1-dehydrogenase;6-phosphogluconolactonase,H6PD,O95479,8.34,8.5,6,,,,,3.69,0.000
+Gelsolin,GSN,P06396;F5H1A8;P06396-3;CON__Q3SX14,10.85,54.0,38,,,,,8.25,0.000
+Gelsolin,GSN,P06396-2;F5H8M4;F8WA45,7.24,55.0,36,,,,,8.25,0.000
+Glucose-6-phosphate 1-dehydrogenase,G6PD,P11413;P11413-3;P11413-2;E7EM57;E7EUI8,7.88,16.1,7,,,,,3.84,0.000
+Glucose-6-phosphate isomerase,GPI,P06744;P06744-2,7.83,9.7,5,+,,,,5.18,0.000
+Glucosidase 2 subunit beta,PRKCSH,P14314;P14314-2,7.46,8.9,4,,,,,4.18,0.000
+"Glutamate dehydrogenase 1, mitochondrial",GLUD1,P00367;F5GYQ4;F8WA20;B4DGN5;B3KV55,NaN,7.2,3,,,,,4.74,0.000
+"Glutamate dehydrogenase 2, mitochondrial",GLUD2,P49448,7.18,10.2,5,,,,,NaN,0.000
+Glutamyl aminopeptidase,ENPEP,Q07075,6.16,1.1,1,,,,,3.32,0.000
+Glutaredoxin-3,GLRX3,O76003,6.94,10.4,2,,,,,NaN,0.000
+Glutathione peroxidase 3,GPX3,P22352,9.42,21.2,5,,,,,7.35,0.000
+"Glutathione reductase, mitochondrial",GSR,P00390;P00390-2;P00390-3;P00390-5;P00390-4,8.02,10.5,4,,,,,3.54,0.000
+Glutathione S-transferase Mu 5;Glutathione S-transferase Mu 2;Glutathione S-transferase Mu 3;Glutathione S-transferase Mu 1,GSTM5;GSTM2;GSTM3;GSTM1,P46439;Q5T8Q9;Q5T8R1;P28161;P21266;P09488;P09488-2;E9PLF1;E9PHN7;E9PHN6;F6XZQ7;E7EWW9;E9PEM9,7.92,3.7,1,,,,,NaN,0.002
+Glutathione S-transferase omega-1,GSTO1,P78417;Q5TA02;D3DRA3;Q5TA01;F5H7H0,7.68,7.5,2,,,,,4.52,0.000
+Glyceraldehyde-3-phosphate dehydrogenase,GAPDH,P04406;E7EUT4;E7EUT5,9.53,55.2,14,,,,,4.96,0.000
+Glycerol kinase;Putative glycerol kinase 3,GK;GK3P,P32189;C9JLT1;E7EQC0;P32189-1;A6NJP5;Q14409;P32189-2,7.07,1.8,1,,,,,NaN,0.000
+Glycine N-methyltransferase,GNMT,Q14749,NaN,2.7,1,,,,,NaN,0.002
+Glycine--tRNA ligase,GARS,P41250,7.14,1.8,1,,,,,NaN,0.000
+"Glycogen phosphorylase, liver form;Phosphorylase;Glycogen phosphorylase, brain form;Glycogen phosphorylase, muscle form",PYGL;PYGB;PYGM,P06737;E9PMM6;E9PK47;F5H816;P11216;P11217;F5GZH7;P11217-2,7.24,1.8,2,,,,,3.67,0.000
+Golgi-associated plant pathogenesis-related protein 1,GLIPR2,Q9H4G4;Q5VZR0,8.16,16.9,2,,,,,4.96,0.000
+G-protein coupled receptor 126,GPR126,Q86SQ4;Q86SQ4-3;Q86SQ4-2;Q86SQ4-4,7.60,1.8,2,,,,,NaN,0.000
+Group XV phospholipase A2,PLA2G15,Q8NCC3;H3BM47;B4DJW4;H3BPT3;H3BMU8,7.14,2.7,1,,,,,NaN,0.000
+Growth arrest-specific protein 6,GAS6,Q14393;E9PBL7;Q14393-4;Q14393-3;Q14393-2,6.83,1.4,1,,,,,NaN,0.000
+Growth factor receptor-bound protein 2,GRB2,P62993,6.67,3.7,1,,,,,3.46,0.005
+"GrpE protein homolog 1, mitochondrial;GrpE protein homolog",GRPEL1,Q9HAV7;B4DWV5,6.71,5.1,1,,,,,NaN,0.001
+GTP-binding nuclear protein Ran,RAN,P62826;B5MDF5;F5H018;H0YFC6;B4DV51,8.51,10.2,3,,,,,3.66,0.000
+Guanine deaminase,GDA,Q9Y2T3;Q9Y2T3-3,7.31,2.6,1,,,,,3.68,0.000
+Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1;Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2;Guanine nucleotide-binding protein subunit beta-4,GNB1;GNB2;GNB4,P62873;P62879;Q9HAV0;E7EP32;B1AKQ8;B1AKQ7;B1AKQ9;C9JZN1;C9JIS1;C9JXA5,7.34,5.9,2,,,,,3.40,0.000
+"Guanine nucleotide-binding protein subunit beta-2-like 1;Guanine nucleotide-binding protein subunit beta-2-like 1, N-terminally processed",GNB2L1,P63244;D6RAC2;D6REE5;D6RGK8;H0Y9P0;D6RF23;D6R909;D6RAU2;E9PD14;D6RBD0;D6RFX4;H0YAF8;D6RFZ9;D6RHH4;D6R9Z1;H0YAM7;H0Y8W2;D6R9L0,6.16,3.2,1,,,,,NaN,0.002
+Haptoglobin;Haptoglobin alpha chain;Haptoglobin beta chain,HP,P00738;Q0VAC5;I3L0D3;H3BS21,11.14,57.4,25,+,+,,,8.86,0.000
+Haptoglobin-related protein,HPR,P00739;P00739-2,9.79,41.1,19,,,,,7.61,0.000
+Heat shock 70 kDa protein 1A/1B,HSPA1A,P08107;H0YG33;F8VZJ4;F5H1D3;F5GZ62;E7EP94;Q5SP16,8.46,22.3,12,,,,,5.00,0.000
+Heat shock 70 kDa protein 6;Putative heat shock 70 kDa protein 7,HSPA6;HSPA7,P17066;B4DHP5;P48741,7.69,11.2,6,,,,,NaN,0.000
+Heat shock cognate 71 kDa protein,HSPA8,P11142;E9PKE3;P11142-2;E9PNE6;E9PN89,9.14,28.0,17,,,,,5.00,0.000
+Heat shock protein beta-1,HSPB1,P04792;B4DL87,8.72,40.5,9,,,,,3.72,0.000
+Heat shock protein HSP 90-alpha,HSP90AA1,P07900;P07900-2;Q86U12,8.69,30.5,21,,,,,4.94,0.000
+Heat shock protein HSP 90-beta,HSP90AB1,P08238,9.22,33.1,23,,,,,4.94,0.000
+Hematopoietic progenitor cell antigen CD34,CD34,P28906;Q5JTA5;B4DG27;B4DUX4;P28906-2,7.06,2.1,1,,,,,NaN,0.000
+Hemicentin-1,HMCN1,Q96RW7;Q96RW7-2,7.01,0.2,1,,,,,NaN,0.002
+Hemicentin-2,HMCN2,Q8NDA2;Q8NDA2-2;Q8NDA2-3,6.10,0.2,1,,,,,NaN,0.000
+Hemoglobin subunit alpha,HBA1;HBA2,P69905;G3V1N2,10.21,63.4,7,,,,,7.61,0.000
+Hemoglobin subunit beta;LVV-hemorphin-7;Spinorphin,HBB,P68871;F8W6P5,10.58,83.7,11,,,,,7.48,0.000
+Hemoglobin subunit delta,HBD,P02042;E9PFT6;E9PEW8,8.53,83.7,11,,,,,7.48,0.000
+Hemopexin,HPX,P02790;Q9BS19,11.02,46.8,19,+,+,,,8.56,0.000
+Heparin cofactor 2,SERPIND1,P05546,10.39,45.3,19,,,,,7.55,0.000
+Hepatocyte growth factor activator;Hepatocyte growth factor activator short chain;Hepatocyte growth factor activator long chain,HGFAC,Q04756;D6RAR4,9.56,12.7,6,,,,,5.38,0.000
+Hepatocyte growth factor-like protein;Hepatocyte growth factor-like protein alpha chain;Hepatocyte growth factor-like protein beta chain,MST1,P26927;G3XAK1,8.93,11.8,8,,,,,5.40,0.000
+Hepatoma-derived growth factor,HDGF,P51858;A8K8G0;B7Z525;Q5SZ08;Q5SZ07,6.96,7.1,1,,,,,3.62,0.008
+Heterogeneous nuclear ribonucleoprotein A/B,HNRNPAB,Q99729;Q99729-3;D6R9P3;D6RD18;D6RBZ0;Q99729-4;Q99729-2,6.73,3.9,1,,,,,NaN,0.000
+"Heterogeneous nuclear ribonucleoprotein A1;Heterogeneous nuclear ribonucleoprotein A1, N-terminally processed;Heterogeneous nuclear ribonucleoprotein A1-like 2",HNRNPA1;HNRNPA1L2,P09651;F8VXY0;F8VRQ1;F8W6I7;P09651-3;P09651-2;F8VSB5;F8W1S7;Q32P51;F8VTQ5;F8VZ49,7.97,22.0,6,,,,,3.41,0.000
+Heterogeneous nuclear ribonucleoprotein D0,HNRNPD,Q14103;Q14103-3;F5H6R6;H0YA96;H0Y8G5;H7BXN2;B4DTC3;Q14103-4;Q14103-2,NaN,4.5,2,,,,,NaN,0.000
+Heterogeneous nuclear ribonucleoprotein D-like,HNRNPDL,O14979;O14979-3;O14979-2,6.94,3.8,1,,,,,NaN,0.000
+"Heterogeneous nuclear ribonucleoprotein F;Heterogeneous nuclear ribonucleoprotein F, N-terminally processed",HNRNPF,P52597;B4DKS8,7.63,6.5,2,,,,,NaN,0.000
+"Heterogeneous nuclear ribonucleoprotein H;Heterogeneous nuclear ribonucleoprotein H, N-terminally processed;Heterogeneous nuclear ribonucleoprotein H2;Heterogeneous nuclear ribonucleoprotein H2, N-terminally processed",HNRNPH1;HNRNPH2,P31943;P55795;E9PCY7;G8JLB6;E5RGH4;E5RGV0;D6RIU0;D6RBM0;H0YB39;B4DFK9,7.63,9.6,3,,,,,NaN,0.000
+Heterogeneous nuclear ribonucleoprotein K,HNRNPK,P61978;P61978-2;Q5T6W5;P61978-3;Q5T6W2;B4DFF1;Q5T6W1,8.44,18.8,7,,,,,3.15,0.000
+Heterogeneous nuclear ribonucleoprotein L,HNRNPL,P14866,6.99,1.7,1,,,,,NaN,0.001
+Heterogeneous nuclear ribonucleoprotein M,HNRNPM,P52272;P52272-2;Q59ES8;F5H7Z1,7.22,3.3,2,,,,,NaN,0.000
+Heterogeneous nuclear ribonucleoprotein Q,SYNCRIP,O60506;F6UXX1;O60506-4;O60506-3;O60506-2,6.69,1.6,1,,,,,NaN,0.000
+Heterogeneous nuclear ribonucleoprotein U,HNRNPU,Q00839;Q00839-2;B3KX72,7.82,9.7,5,,,,,3.54,0.000
+Heterogeneous nuclear ribonucleoproteins A2/B1,HNRNPA2B1,P22626;P22626-2,8.33,28.9,9,,,,,3.61,0.000
+Heterogeneous nuclear ribonucleoproteins C1/C2;Heterogeneous nuclear ribonucleoprotein C-like 1,HNRNPC;HNRNPCL1,P07910;P07910-2;P07910-4;G3V576;G3V4W0;B4DY08;G3V4C1;B2R603;G3V2Q1;O60812;G3V5X6;G3V3K6;G3V251;B4DSU6;G3V555;G3V575;P07910-3,NaN,2.9,1,,,,,3.77,0.000
+High mobility group protein B1;Putative high mobility group protein B1-like 1,HMGB1;HMGB1P1,P09429;Q5T7C4;Q5T7C6;B2RPK0,8.22,11.2,2,,,,,4.65,0.000
+Histidine triad nucleotide-binding protein 1,HINT1,P49773;D6RC06;D6REP8;D6RE99;D6RD60,7.13,7.1,1,,,,,4.68,0.000
+Histidine-rich glycoprotein,HRG,P04196,10.46,31.0,18,,,,,7.91,0.000
+Histone H1.2;Histone H1.4;Histone H1.3,HIST1H1C;HIST1H1E;HIST1H1D,P16403;P10412;P16402,8.41,26.8,5,,,,,4.48,0.000
+Histone H2A type 2-A;Histone H2A type 1;Histone H2A.J;Histone H2A type 2-C;Histone H2A type 1-J;Histone H2A type 1-C;Histone H2A type 3;Histone H2A type 1-B/E;Histone H2A type 1-H;Histone H2A type 1-D;Histone H2AX;Histone H2A type 1-A;Histone H2A,HIST2H2AA3;HIST1H2AG;H2AFJ;HIST2H2AC;HIST1H2AJ;HIST1H2AC;HIST3H2A;HIST1H2AB;HIST1H2AH;HIST1H2AD;H2AFX;HIST1H2AA,Q6FI13;P0C0S8;Q9BTM1;Q16777;Q99878;Q93077;Q7L7L0;P04908;Q96KK5;P20671;P16104;Q96QV6;H0YFX9;C9JE22;Q9BTM1-2,8.88,32.3,5,,,,,NaN,0.000
+Histone H2A.Z;Histone H2A.V,H2AFZ;H2AFV,P0C0S5;Q71UI9;A6NFA8;A6NKY0,NaN,12.5,2,,,,,5.30,0.005
+Histone H2B type 1-H;Histone H2B type 1-M;Histone H2B type 1-N;Histone H2B type 2-F;Histone H2B type 1-D;Histone H2B type 1-K;Histone H2B type 1-C/E/F/G/I;Histone H2B type F-S;Histone H2B;Histone H2B type 1-B;Histone H2B type 1-L;Histone H2B type 2-E;Histone H2B type 1-O;Histone H2B type 1-J;Histone H2B type 3-B;Histone H2B type 1-A,HIST1H2BH;HIST1H2BM;HIST1H2BN;HIST2H2BF;HIST1H2BD;HIST1H2BK;HIST1H2BC;H2BFS;HIST1H2BB;HIST1H2BL;HIST2H2BE;HIST1H2BO;HIST1H2BJ;HIST3H2BB;HIST1H2BA,Q93079;Q99879;Q99877;Q5QNW6;P58876;O60814;P62807;P57053;B4DR52;Q5QNW6-2;P33778;Q99880;Q16778;P23527;P06899;Q8N257;Q96A08,9.51,53.2,7,,,,,4.88,0.000
+Histone H3.1;Histone H3.3;Histone H3.2;Histone H3.1t;Histone H3.3C;Histone H3,HIST1H3A;H3F3A;HIST2H3A;HIST3H3;H3F3C;HIST2H3PS2,P68431;P84243;Q71DI3;Q16695;Q6NXT2;Q5TEC6;B4DEB1,9.12,21.3,4,,,,,NaN,0.000
+Histone H4,HIST1H4A,P62805,9.16,46.6,5,,,,,NaN,0.000
+Histone-binding protein RBBP7,RBBP7,Q16576;Q16576-2;E9PC52,6.74,2.1,1,,,,,NaN,0.000
+"HLA class I histocompatibility antigen, A-68 alpha chain;HLA class I histocompatibility antigen, A-25 alpha chain;HLA class I histocompatibility antigen, A-66 alpha chain;HLA class I histocompatibility antigen, A-34 alpha chain;HLA class I histocompatibility antigen, A-26 alpha chain;HLA class I histocompatibility antigen, A-33 alpha chain",HLA-A,P01891;P18462;F8VPA0;A2ARK8;Q5SPM3;P30457;P30453;P30450;P16190,NaN,8.2,2,,,,,4.45,0.000
+"HLA class I histocompatibility antigen, A-69 alpha chain;HLA class I histocompatibility antigen, A-2 alpha chain",HLA-A,P10316;P01892;H3BM09;A9R9N8;F8VU18;H3BM16;A9R9N7,7.38,8.2,2,,,,,4.45,0.000
+"HLA class I histocompatibility antigen, alpha chain G",HLA-G,P17693,7.47,6.8,2,,,,,NaN,0.000
+"HLA class I histocompatibility antigen, B-73 alpha chain",HLA-B,Q31612,NaN,2.5,1,,,,,4.45,0.001
+"HLA class I histocompatibility antigen, Cw-12 alpha chain;HLA class I histocompatibility antigen, Cw-14 alpha chain;HLA class I histocompatibility antigen, Cw-16 alpha chain;HLA class I histocompatibility antigen, Cw-4 alpha chain",HLA-C,P30508;E7ERM2;B0S7Z4;B0S7Z5;B0S7Z6;P30510;Q29960-2;P30504;Q29960,7.64,14.2,4,,,,,4.45,0.000
+"HLA class I histocompatibility antigen, Cw-15 alpha chain;HLA class I histocompatibility antigen, Cw-2 alpha chain;HLA class I histocompatibility antigen, Cw-3 alpha chain",HLA-C,Q07000;P30501;B0V0C2;B0V0B9;B0V0C1;P04222;H0Y7F5,NaN,10.4,3,,,,,4.45,0.000
+"HLA class I histocompatibility antigen, Cw-6 alpha chain;HLA class I histocompatibility antigen, Cw-18 alpha chain;HLA class I histocompatibility antigen, Cw-1 alpha chain;HLA class I histocompatibility antigen, Cw-8 alpha chain;HLA class I histocompatibility antigen, Cw-5 alpha chain",HLA-C,B0UY12;B0UY14;B0UY15;Q29963;Q29865;P30499;P30505;Q9TNN7;A2BF26;E9PIT7;H0Y6Q7;A2BF24;A2BF25,NaN,10.3,3,,,,,4.45,0.001
+Hornerin,HRNR,Q86YZ3;CON__Q86YZ3,7.11,6.9,3,,,,,5.28,0.000
+Hsc70-interacting protein;Putative protein FAM10A4;Putative protein FAM10A5,ST13;ST13P4;ST13P5,P50502;H7C3I1;F6VDH7;Q3KNR6;Q8IZP2;Q8NFI4,NaN,2.7,1,,,,,NaN,0.005
+Hyaluronan-binding protein 2;Hyaluronan-binding protein 2 50 kDa heavy chain;Hyaluronan-binding protein 2 50 kDa heavy chain alternate form;Hyaluronan-binding protein 2 27 kDa light chain;Hyaluronan-binding protein 2 27 kDa light chain alternate form,HABP2,Q14520;F5H5M6,9.46,7.3,8,,,,,5.71,0.000
+Hypoxanthine-guanine phosphoribosyltransferase,HPRT1,P00492;H7BY78,NaN,14.2,3,,,,,3.41,0.000
+Hypoxia up-regulated protein 1,HYOU1,Q9Y4L1;E9PL22;F5H4Z5;F5H4X7,8.05,5.5,4,,,,,3.82,0.000
+ICOS ligand,ICOSLG,O75144;O75144-2;A8MUZ1,NaN,3.3,1,,,,,3.34,0.000
+Ig alpha-1 chain C region,IGHA1,P01876,11.14,41.4,14,,,,,NaN,0.000
+Ig alpha-2 chain C region,IGHA2,P01877,9.38,27.9,11,,,,,NaN,0.000
+Ig delta chain C region,IGHD,P01880;P01880-2,9.42,12.8,5,,,,,NaN,0.000
+Ig gamma-1 chain C region,IGHG1,P01857,11.73,60.6,16,,,,,NaN,0.000
+Ig gamma-2 chain C region,IGHG2,P01859,11.15,51.8,14,,,,,NaN,0.000
+Ig gamma-3 chain C region,IGHG3,P01860,9.99,51.5,14,,,,,NaN,0.000
+Ig gamma-4 chain C region,IGHG4,P01861,10.99,53.8,14,,,,,8.51,0.000
+Ig heavy chain V-I region EU;Ig heavy chain V-I region SIE;Ig heavy chain V-I region Mot,,P01742;P01761;P06326,9.52,27.4,2,,,,,NaN,0.000
+Ig heavy chain V-I region HG3,,P01743,8.90,22.2,2,,,,,NaN,0.000
+Ig heavy chain V-I region V35,,P23083,9.22,32.5,3,,,,,NaN,0.000
+Ig heavy chain V-I region WOL,,P01760,7.11,9.7,1,,,,,NaN,0.001
+Ig heavy chain V-II region ARH-77,,P06331,9.63,17.1,2,,,,,NaN,0.000
+Ig heavy chain V-II region NEWM,,P01825,7.64,24.8,2,,,,,NaN,0.009
+Ig heavy chain V-II region OU;Ig heavy chain V-II region SESS,,P01814;P04438,8.80,12.7,2,,,,,NaN,0.005
+Ig heavy chain V-II region WAH,,P01824,8.79,13.2,2,,,,,NaN,0.000
+Ig heavy chain V-III region BRO,,P01766,10.48,34.2,3,,,,,NaN,0.000
+Ig heavy chain V-III region BUR,,P01773,7.16,9.2,1,,,,,NaN,0.000
+Ig heavy chain V-III region BUT,,P01767,9.06,26.1,2,,,,,NaN,0.000
+Ig heavy chain V-III region GAL,,P01781,9.31,40.5,4,,,,,NaN,0.000
+Ig heavy chain V-III region GAR,,P80419,7.73,23.7,2,,,,,NaN,0.000
+Ig heavy chain V-III region HIL,,P01771,7.55,9.1,1,,,,,NaN,0.000
+Ig heavy chain V-III region JON,,P01780,8.48,11.3,1,,,,,NaN,0.007
+Ig heavy chain V-III region KOL,,P01772,9.49,21.4,2,,,,,NaN,0.000
+Ig heavy chain V-III region LAY,,P01775,7.74,16.0,1,,,,,NaN,0.000
+Ig heavy chain V-III region TIL,,P01765,9.85,33.9,3,,,,,NaN,0.000
+Ig heavy chain V-III region VH26,,P01764,8.85,18.8,2,,,,,NaN,0.000
+Ig heavy chain V-III region WAS;Ig heavy chain V-III region TUR;Ig heavy chain V-III region POM,,P01776;P01779;P01774,7.66,23.9,2,,,,,NaN,0.002
+Ig heavy chain V-III region WEA,,P01763,8.07,19.3,2,,,,,NaN,0.000
+Ig heavy chain V-III region ZAP,,P01778,8.06,16.4,1,,,,,NaN,0.000
+Ig kappa chain C region,IGKC,P01834,11.27,84.0,7,,,,,NaN,0.000
+Ig kappa chain V-I region AU,,P01594,8.58,31.5,2,,,,,NaN,0.000
+Ig kappa chain V-I region BAN,,P04430,9.52,16.7,1,,,,,NaN,0.000
+Ig kappa chain V-I region CAR,,P01596,7.26,27.1,2,,,,,NaN,0.003
+Ig kappa chain V-I region EU,,P01598,10.00,31.5,3,,,,,NaN,0.000
+Ig kappa chain V-I region HK101,,P01601,7.98,13.7,1,,,,,NaN,0.000
+Ig kappa chain V-I region HK102,IGKV1-5,P01602,8.14,13.7,1,,,,,NaN,0.000
+Ig kappa chain V-I region Ka,,P01603,8.70,38.0,3,,,,,NaN,0.000
+Ig kappa chain V-I region Kue,,P01604,9.07,10.2,1,,,,,NaN,0.001
+Ig kappa chain V-I region Lay,,P01605,8.81,25.0,2,,,,,NaN,0.000
+Ig kappa chain V-I region Mev,,P01612,9.51,45.0,3,,,,,NaN,0.000
+Ig kappa chain V-I region Ni,,P01613,9.94,30.4,2,,,,,NaN,0.000
+Ig kappa chain V-I region Roy,,P01608,8.45,31.5,3,,,,,NaN,0.003
+Ig kappa chain V-I region Scw,,P01609,7.61,42.6,3,,,,,NaN,0.000
+Ig kappa chain V-I region WEA;Ig kappa chain V-I region Gal,,P01610;P01599,10.16,38.9,3,,,,,NaN,0.000
+Ig kappa chain V-I region Wes,,P01611,9.30,31.5,2,,,,,NaN,0.000
+Ig kappa chain V-II region Cum,,P01614,7.89,27.8,4,,,,,NaN,0.007
+Ig kappa chain V-II region FR,,P01615,9.15,17.7,3,,,,,NaN,0.000
+Ig kappa chain V-II region GM607;Ig kappa chain V-II region TEW,,P06309;P01617,10.62,34.2,4,,,,,NaN,0.000
+Ig kappa chain V-II region RPMI 6410,,P06310,9.53,15.0,3,,,,,NaN,0.000
+Ig kappa chain V-III region B6,,P01619,8.74,21.3,2,,,,,NaN,0.000
+Ig kappa chain V-III region CLL,,P04207;H7C1X1,9.07,24.8,3,,,,,NaN,0.000
+Ig kappa chain V-III region HAH;Ig kappa chain V-III region HIC,,P18135;P18136,9.35,42.6,6,,,,,NaN,0.000
+Ig kappa chain V-III region IARC/BL41,,P06311,7.49,24.2,2,,,,,NaN,0.000
+Ig kappa chain V-III region NG9,,P01621,9.70,48.0,4,,,,,NaN,0.000
+Ig kappa chain V-III region POM,,P01624,8.63,31.2,3,,,,,NaN,0.000
+Ig kappa chain V-III region SIE,,P01620,10.60,60.6,6,,,,,NaN,0.000
+Ig kappa chain V-III region Ti,,P01622,8.92,45.9,5,,,,,NaN,0.007
+Ig kappa chain V-III region VG,,P04433,9.93,27.0,3,,,,,NaN,0.000
+Ig kappa chain V-IV region B17,,P06314,7.77,22.4,3,,,,,NaN,0.000
+Ig kappa chain V-IV region Len,,P01625,10.16,42.1,4,,,,,NaN,0.000
+Ig kappa chain V-IV region;Ig kappa chain V-IV region JI,IGKV4-1,P06312;P06313,7.58,24.8,3,,,,,NaN,0.000
+Ig lambda chain V region 4A,,P04211,8.97,21.4,3,,,,,NaN,0.000
+Ig lambda chain V-I region NEW,,P01701,8.60,18.9,2,,,,,NaN,0.000
+Ig lambda chain V-I region VOR,,P01699,9.21,29.7,3,,,,,NaN,0.000
+Ig lambda chain V-I region WAH;Ig lambda chain V-I region HA,,P04208;P01700,8.28,27.5,2,,,,,NaN,0.002
+Ig lambda chain V-II region BUR,,P01708,8.78,24.8,3,,,,,NaN,0.000
+Ig lambda chain V-II region NIG-84,,P04209,8.68,8.0,1,,,,,NaN,0.002
+Ig lambda chain V-III region LOI,,P80748,9.84,27.9,3,,,,,NaN,0.000
+Ig lambda chain V-III region SH,,P01714,10.10,33.3,3,,,,,NaN,0.000
+Ig lambda chain V-IV region Hil,,P01717,9.51,17.8,1,,,,,NaN,0.000
+Ig lambda chain V-V region DEL;Ig lambda chain V-VII region MOT,,P01719;P01720,9.13,7.4,1,,,,,NaN,0.003
+Ig lambda chain V-VI region SUT;Ig lambda chain V-VI region AR,,P06317;P01721,7.52,14.4,1,,,,,NaN,0.000
+Ig lambda chain V-VI region WLT;Ig lambda chain V-VI region EB4,,P06318;P06319,7.79,18.0,1,,,,,NaN,0.000
+Ig lambda-2 chain C regions;Ig lambda-3 chain C regions,IGLC2;IGLC3,P0CG05;P0CG06,11.18,93.4,10,,,,,NaN,0.000
+Ig lambda-7 chain C region,IGLC7,A0M8Q6,9.03,55.7,6,,,,,NaN,0.000
+Ig mu chain C region;Ig mu heavy chain disease protein,IGHM,P01871;P01871-2;P04220,10.53,35.0,14,,,,,8.23,0.000
+IgGFc-binding protein,FCGBP,Q9Y6R7,8.87,6.6,17,,,,,5.48,0.000
+Immunoglobulin J chain,IGJ,P01591;D6RHJ6;D6RD17;C9JA05,9.44,32.1,5,,,,,6.75,0.000
+Immunoglobulin lambda-like polypeptide 1,IGLL1,P15814,8.82,7.0,1,,,,,NaN,0.000
+Immunoglobulin lambda-like polypeptide 5;Ig lambda-1 chain C regions,IGLL5;IGLC1,B9A064;P0CG04,10.54,50.0,10,,,,,NaN,0.000
+Immunoglobulin superfamily containing leucine-rich repeat protein,ISLR,O14498;H0YN67;H0YL90,7.69,8.2,3,,,,,NaN,0.000
+Immunoglobulin superfamily DCC subclass member 4,IGDCC4,Q8TDY8,5.94,0.8,1,,,,,NaN,0.000
+Importin subunit beta-1,KPNB1,Q14974;F5H4R7;B7ZAV6,NaN,3.3,2,,,,,NaN,0.000
+Importin-5,IPO5,O00410;C9JZD8;E7EQT5;H7C609;E7ETV3;B4E0R6,6.78,2.3,1,,,,,NaN,0.000
+Indian hedgehog protein;Indian hedgehog protein N-product;Indian hedgehog protein C-product,IHH,Q14623,7.19,4.4,1,,,,,NaN,0.000
+Inhibin beta C chain,INHBC,P55103;F8VVQ8,7.77,4.8,2,,,,,4.11,0.000
+Inorganic pyrophosphatase,PPA1,Q15181;Q5SQT6,7.77,12.1,3,,,,,NaN,0.000
+Inosine-5-monophosphate dehydrogenase 2;Inosine-5-monophosphate dehydrogenase 1;Inosine-5-monophosphate dehydrogenase,IMPDH2;IMPDH1,P12268;H0Y4R1;P20839;E7ETK5;C9K0R9;F5H247;C9J381;E7EQS0;P20839-2;P20839-4;P20839-3;C9JV30,8.92,3.9,2,,,,,NaN,0.001
+Insulin-like growth factor-binding protein 2,IGFBP2,P18065;C9JMY1;C9JW52,7.82,9.2,3,,,,,5.67,0.000
+Insulin-like growth factor-binding protein 3,IGFBP3,P17936;H0Y5K2;B3KTS0;B3KWK7;F5H4S6;B3KRZ1;C9JMX4;H0Y485,8.54,23.7,6,+,,,+,6.53,0.000
+Insulin-like growth factor-binding protein 4,IGFBP4,P22692;B4E351,7.44,3.1,1,,,,,6.51,0.002
+Insulin-like growth factor-binding protein 5,IGFBP5,P24593;C9JXX4,7.59,11.0,3,,,,,6.23,0.000
+Insulin-like growth factor-binding protein 6,IGFBP6,P24592;F8VYK9,7.77,10.4,2,,,,,6.04,0.000
+Insulin-like growth factor-binding protein 7,IGFBP7,Q16270;B4E1N2,NaN,4.6,1,,,,,5.68,0.000
+Insulin-like growth factor-binding protein complex acid labile subunit,IGFALS,P35858;E9PGU3,10.23,32.7,16,,,,,6.18,0.000
+Integrin alpha-1,ITGA1,P56199,8.63,1.4,2,,,,,NaN,0.000
+Integrin alpha-11,ITGA11,Q9UKX5;F5H1A1,6.22,0.8,1,,,,,NaN,0.000
+Integrin alpha-2,ITGA2,P17301;E7ESP4;E7EMF1,7.39,0.8,1,,,,,NaN,0.000
+Integrin beta-1,ITGB1,P05556;P05556-2;P05556-5;P05556-4;P05556-3,7.85,4.8,3,,,,,4.04,0.000
+Intelectin-1;Intelectin-2,ITLN1;ITLN2,Q8WWA0;Q8WWU7,7.58,7.0,2,,,,,4.54,0.000
+Inter-alpha-trypsin inhibitor heavy chain H1,ITIH1,P19827;B7Z549;F5H7E1;F5H165;F5H7Y8,10.76,42.4,33,,,,,7.38,0.000
+Inter-alpha-trypsin inhibitor heavy chain H2,ITIH2,P19823;Q5T985,11.00,47.7,40,,,,,7.32,0.000
+Inter-alpha-trypsin inhibitor heavy chain H3,ITIH3,Q06033;C9JX84;Q06033-2;A8MXF4;F5H6B4;E7ET33,9.86,33.8,23,,,,,6.30,0.000
+Inter-alpha-trypsin inhibitor heavy chain H4;70 kDa inter-alpha-trypsin inhibitor heavy chain H4;35 kDa inter-alpha-trypsin inhibitor heavy chain H4,ITIH4,Q14624-2;E9PGN5;F5H194;H7C0L5,8.27,54.6,45,,,,,7.62,0.000
+Inter-alpha-trypsin inhibitor heavy chain H4;70 kDa inter-alpha-trypsin inhibitor heavy chain H4;35 kDa inter-alpha-trypsin inhibitor heavy chain H4,ITIH4,Q14624,11.12,54.5,46,,,,,7.62,0.000
+Intercellular adhesion molecule 1,ICAM1,P05362,8.54,7.1,3,,,,,7.66,0.000
+Intercellular adhesion molecule 3,ICAM3,P32942,6.99,1.8,1,,,,,3.56,0.000
+Interleukin enhancer-binding factor 3,ILF3,Q12906;Q12906-4;Q12906-5;Q12906-2;C9JFV5;Q12906-6;Q12906-3;G5E9M5;B4DFG4,6.66,3.2,2,,,,,NaN,0.002
+Interleukin-1 receptor accessory protein,IL1RAP,Q9NPH3;Q9NPH3-2;Q9NPH3-5;Q9NPH3-3;C9J9W1,8.57,11.4,5,,,,,3.67,0.000
+Interleukin-6 receptor subunit beta,IL6ST,P40189;P40189-3;F5H374;D6RH03;P40189-2,7.64,2.5,2,,,,,3.11,0.000
+Isocitrate dehydrogenase [NADP] cytoplasmic,IDH1,O75874,7.16,5.3,2,,,,,3.82,0.001
+"Isoleucine--tRNA ligase, cytoplasmic",IARS,P41252;Q5TCC5;Q5TCC4,6.78,1.5,2,,,,,NaN,0.000
+Junction plakoglobin,JUP,P14923,7.26,4.3,3,,,,,5.32,0.000
+Kallistatin,SERPINA4,P29622,10.20,53.9,21,,,,,7.06,0.000
+"KH domain-containing, RNA-binding, signal transduction-associated protein 1;KH domain-containing, RNA-binding, signal transduction-associated protein 2",KHDRBS1;KHDRBS2,Q07666;E7ET98;Q07666-2;Q5VWX1;F5H5F6,6.61,4.1,2,,,,,NaN,0.002
+Kininogen-1;Kininogen-1 heavy chain;T-kinin;Bradykinin;Lysyl-bradykinin;Kininogen-1 light chain;Low molecular weight growth-promoting factor,KNG1,B4DPP8;P01042-2;C9JEX1,10.11,47.0,21,,,,,8.62,0.000
+Kininogen-1;Kininogen-1 heavy chain;T-kinin;Bradykinin;Lysyl-bradykinin;Kininogen-1 light chain;Low molecular weight growth-promoting factor,KNG1,P01042,10.77,35.6,23,,,,,8.62,0.000
+Kynureninase,KYNU,Q16719;B8ZZA3;Q16719-2,6.78,5.2,2,,,,,NaN,0.000
+Lactotransferrin;Lactoferricin-H;Kaliocin-1;Lactoferroxin-A;Lactoferroxin-B;Lactoferroxin-C,LTF,P02788;E7EQB2;E7ER44;B7Z4X2,7.44,3.1,2,,,,,8.56,0.000
+"Lamina-associated polypeptide 2, isoforms beta/gamma;Thymopoietin;Thymopentin;Lamina-associated polypeptide 2, isoform alpha;Thymopoietin;Thymopentin",TMPO,P42167;P42166;P42167-2;G5E972,7.50,3.5,1,,,,,3.26,0.000
+Lamin-B1,LMNB1,P20700;E9PBF6,6.24,2.4,1,,,,,3.08,0.000
+Laminin subunit beta-1,LAMB1,P07942;G3XAI2,7.62,1.6,3,,,,,3.41,0.000
+Laminin subunit beta-2,LAMB2,P55268;F5H520,6.89,0.8,1,,,,,3.40,0.000
+Laminin subunit gamma-1,LAMC1,P11047,6.57,0.5,1,,,,,4.70,0.000
+Large neutral amino acids transporter small subunit 1,SLC7A5,Q01650,6.77,5.5,2,,,,,NaN,0.001
+Leptin receptor,LEPR,P48357;P48357-5;P48357-2;P48357-4;P48357-3,6.84,1.3,1,,,,,NaN,0.000
+Leucine-rich alpha-2-glycoprotein,LRG1,P02750;B4E1I8,10.09,27.7,9,,,,,6.43,0.000
+Leucine-rich repeat-containing protein 59,LRRC59,Q96AG4,7.53,4.2,1,,,,,NaN,0.000
+Leukocyte cell-derived chemotaxin-2,LECT2,D6RD58;O14960,7.08,11.4,1,,,,,NaN,0.002
+Leukocyte elastase inhibitor,SERPINB1,P30740;B4E3A8;B4DNT0,6.84,5.0,1,,,,,4.15,0.000
+Leukocyte immunoglobulin-like receptor subfamily A member 3,LILRA3,Q8N6C8,7.47,1.6,1,,,,,4.40,0.000
+Leukocyte immunoglobulin-like receptor subfamily A member 6,LILRA6,Q6PI73;C9JFH3;B5ME96;F8WCY4;D3YTC4,6.29,3.7,1,,,,,NaN,0.002
+Leukotriene A-4 hydrolase,LTA4H,P09960;F8VV40;P09960-2;P09960-3,7.89,8.8,5,,,,,4.40,0.000
+LIM and SH3 domain protein 1,LASP1,Q14847;C9J9W2;Q14847-2;B4DIC4;B4DGQ0,6.79,8.8,2,,,,,3.99,0.000
+Limbic system-associated membrane protein,LSAMP,Q13449;C9J5G3;H3BLU2;F5H5G1,6.94,2.4,1,,,,,4.20,0.000
+Lipopolysaccharide-binding protein,LBP,P18428;Q8TCF0,9.35,15.4,6,,,,,5.51,0.000
+Liver carboxylesterase 1,CES1,P23141;I3L0R9;B7Z795;E9PAU8;P23141-2;H3BSU0;H3BQV8;I3L1E2,6.95,1.6,1,,,,,4.66,0.000
+L-lactate dehydrogenase A chain,LDHA,P00338;P00338-3;P00338-4;F5H308;E9PH51;P00338-2;P00338-5,8.63,36.4,11,+,,+,,4.93,0.000
+L-lactate dehydrogenase B chain;L-lactate dehydrogenase,LDHB,P07195;A8MW50,8.83,38.0,11,+,,+,,4.93,0.000
+"Long-chain specific acyl-CoA dehydrogenase, mitochondrial",ACADL,P28330,7.59,2.6,1,,,,,NaN,0.000
+Long-chain-fatty-acid--CoA ligase 1,ACSL1,P33121;B7Z3Z9;E7EPM6;P33121-2;B7Z452;D6RER0,8.45,1.3,1,,,,,NaN,0.000
+Low affinity immunoglobulin gamma Fc region receptor III-A,FCGR3A,P08637;H0Y755;E9PG94,7.64,7.9,2,,,,,4.80,0.000
+Low affinity immunoglobulin gamma Fc region receptor III-B,FCGR3B,O75015;H0Y4U3,7.61,8.6,2,,,,,4.80,0.005
+L-selectin,SELL,P14151;P14151-2,9.07,9.1,4,,,,,5.93,0.000
+Lumican,LUM,P51884,10.06,32.2,11,,,,,6.60,0.000
+Lymphatic vessel endothelial hyaluronic acid receptor 1,LYVE1,Q9Y5Y7,8.31,8.1,3,,,,,3.79,0.000
+Lysine-specific demethylase 4C,KDM4C,Q9H3R0;F5GYH2;C9J879;E7EV17;F5H347;F5H7P0;Q9H3R0-2,8.20,0.9,1,,,,,NaN,0.000
+Lysosome-associated membrane glycoprotein 1,LAMP1,P11279;B4DWL3,7.76,4.6,2,,,,,3.20,0.000
+Lysosome-associated membrane glycoprotein 2,LAMP2,P13473;P13473-2;B4E2S7;P13473-3;B7Z2R9;H0YCG2,8.53,8.8,4,,,,,3.86,0.000
+Lysozyme C,LYZ,P61626;F8VV32,9.00,10.8,2,+,,,,4.71,0.000
+Macrophage colony-stimulating factor 1 receptor,CSF1R,P07333;E9PEK4;B5A955,8.19,3.0,3,,,,,4.34,0.000
+Macrophage mannose receptor 1,MRC1,P22897,7.19,3.2,4,,,,,3.75,0.000
+Macrophage migration inhibitory factor,MIF,P14174,7.19,9.6,1,,,,,4.00,0.000
+Macrophage receptor MARCO,MARCO,Q9UEW3;C9JKT8;B8ZZ64;B4DW79,7.93,1.7,1,,,,,NaN,0.002
+"Malate dehydrogenase, cytoplasmic",MDH1,P40925;B8ZZ51;B9A041;P40925-2;F5H098,7.33,3.6,1,,,,,4.59,0.003
+"Malate dehydrogenase, mitochondrial;Malate dehydrogenase",MDH2,P40926;G3XAL0;E9PDB2,7.48,14.2,4,,,,,4.18,0.000
+Mannan-binding lectin serine protease 1;Mannan-binding lectin serine protease 1 heavy chain;Mannan-binding lectin serine protease 1 light chain,MASP1,F8W876;P48740-3,7.02,12.4,3,,,,,5.19,0.000
+Mannan-binding lectin serine protease 1;Mannan-binding lectin serine protease 1 heavy chain;Mannan-binding lectin serine protease 1 light chain,MASP1,P48740,8.29,10.3,6,,,,,5.19,0.000
+Mannan-binding lectin serine protease 1;Mannan-binding lectin serine protease 1 heavy chain;Mannan-binding lectin serine protease 1 light chain,MASP1,P48740-4;P48740-2;F5H2J0,8.71,15.9,7,,,,,5.19,0.000
+Mannan-binding lectin serine protease 2;Mannan-binding lectin serine protease 2 A chain;Mannan-binding lectin serine protease 2 B chain,MASP2,O00187;O00187-2,8.73,11.4,7,,,,,6.45,0.000
+Mannose-binding protein C,MBL2,P11226,8.91,31.9,7,,,,,4.91,0.000
+"Mannosyl-oligosaccharide 1,2-alpha-mannosidase IA",MAN1A1,P33908;Q6P052,8.33,7.2,6,,,,,3.75,0.000
+Mast/stem cell growth factor receptor Kit,KIT,P10721;P10721-2;P10721-3,7.45,3.1,3,,,,,3.91,0.000
+Melanoma-associated antigen D2,MAGED2,Q9UNF1;Q5H907;Q5H909;H7BXW3;Q9UNF1-2,6.72,2.6,1,,,,,NaN,0.000
+Membrane primary amine oxidase,AOC3,Q16853,8.42,10.0,6,,,,,4.80,0.000
+Membrane-associated progesterone receptor component 1,PGRMC1,O00264;B7Z1L3,6.45,7.2,1,,,,,NaN,0.000
+Membrane-associated progesterone receptor component 2,PGRMC2,O15173,6.35,6.3,1,,,,,NaN,0.009
+Metalloproteinase inhibitor 1,TIMP1,P01033;Q5H9A7;Q5H9B4;Q5H9B5,8.00,5.8,1,,,,,5.10,0.000
+Metalloproteinase inhibitor 2,TIMP2,P16035,NaN,6.8,1,,,,,4.97,0.000
+Meteorin-like protein,METRNL,Q641Q3;B3KSJ5,6.51,4.5,1,,,,,NaN,0.001
+"Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial",ALDH6A1,Q02252,7.18,1.5,1,,,,,NaN,0.000
+Microtubule-associated protein RP/EB family member 1,MAPRE1,Q15691,7.87,6.7,1,,,,,3.52,0.000
+Mimecan,OGN,P20774;Q5TBF5,8.12,5.4,2,,,,,4.20,0.000
+Moesin,MSN,P26038,8.15,11.6,7,,,,,4.67,0.000
+"Monocyte differentiation antigen CD14;Monocyte differentiation antigen CD14, urinary form;Monocyte differentiation antigen CD14, membrane-bound form",CD14,P08571;D6RFL4,8.88,20.3,6,,,,,5.62,0.000
+Mucosal addressin cell adhesion molecule 1,MADCAM1,Q13477;F5H5V1;F5H2C3;F5H511;Q13477-2;Q13477-3;Q5UGI7,7.30,3.9,1,,,,,NaN,0.000
+Multimerin-1;Platelet glycoprotein Ia*;155 kDa platelet multimerin,MMRN1,Q13201;Q13201-2,7.22,1.6,2,,,,,3.86,0.000
+Multimerin-2,MMRN2,E7EN39;Q9H8L6,8.59,1.2,1,,,,,5.36,0.000
+Multiple epidermal growth factor-like domains protein 8,MEGF8,Q7Z7M0;Q7Z7M0-2,7.88,1.3,3,,,,,0.63,0.000
+Multiple inositol polyphosphate phosphatase 1,MINPP1,Q9UNW1;B4E394;F5H683,8.21,8.4,4,,,,,4.20,0.000
+Myb-binding protein 1A,MYBBP1A,Q9BQG0;I3L2H8;E7EN09;I3L1L3;Q9BQG0-2,NaN,0.8,1,,,,,NaN,0.000
+"Myocilin;Myocilin, N-terminal fragment;Myocilin, C-terminal fragment",MYOC,Q99972;F5GY01;Q8N854,7.77,3.6,2,,,,,NaN,0.000
+Myoglobin,MB,P02144;B0QYF8;F2Z337;Q8WVH6;F2Z2F1;B4DUI1,7.28,9.7,1,+,,+,,5.08,0.000
+Myosin light polypeptide 6,MYL6;PDE6H,P60660;P60660-2;F8W1R7;G8JLA2;G3V1V0;B7Z6Z4;G3V1Y7;F8VPF3;F8VZV5,NaN,8.6,1,,,,,4.15,0.000
+Myosin regulatory light polypeptide 9;Myosin regulatory light chain 12B;Myosin regulatory light chain 12A,MYL9;MYL12B;MYL12A,P24844;O14950;P19105;P24844-2,6.99,11.6,2,,,,,3.30,0.005
+Myosin-9,MYH9,P35579;P35579-2,7.38,3.3,6,,,,,4.76,0.000
+Myotrophin,MTPN,P58546,7.10,22.0,2,,,,,4.26,0.000
+N-acetylglucosamine-1-phosphotransferase subunit gamma,GNPTG,Q9UJJ9;H0YEA7,7.87,3.3,1,,,,,3.83,0.000
+"N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase",B3GNT1,O43505,7.37,6.0,2,,,,,3.52,0.000
+N-acetylmuramoyl-L-alanine amidase,PGLYRP2,Q96PD5;Q96PD5-2,9.67,35.2,13,,,,,7.15,0.000
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4,NDUFB4,O95168;O95168-2,6.84,10.1,1,,,,,NaN,0.009
+NADP-dependent malic enzyme,ME1,P48163;F5H4W0;B4DZ70,7.06,1.4,1,,,,,3.82,0.002
+"N-alpha-acetyltransferase 15, NatA auxiliary subunit",NAA15,Q9BXJ9;F5H5A7;Q9BXJ9-4,6.47,1.3,1,,,,,NaN,0.010
+"Nascent polypeptide-associated complex subunit alpha, muscle-specific form;Nascent polypeptide-associated complex subunit alpha",NACA,E9PAV3;F8W1N5;F8VZJ2;F8VNW4;F8W0W4;H0YHX9;Q13765;F8VU71,7.16,2.0,3,,,,,3.46,0.000
+Neogenin,NEO1,Q92859;Q92859-3;Q92859-2;B7ZKN0;E7EUX3;Q59FP8,8.43,6.8,7,,,,,3.62,0.000
+Neural cell adhesion molecule 1,NCAM1,P13591;H7BYX6;P13591-5;P13591-6,7.80,11.5,9,,,,,4.52,0.009
+Neural cell adhesion molecule 1,NCAM1,P13591-3;P13591-1;P13591-4;E9PLH7,8.63,11.6,8,,,,,4.52,0.000
+Neural cell adhesion molecule 2,NCAM2,O15394;H9KV31;B7Z841,NaN,2.2,2,,,,,NaN,0.000
+Neural cell adhesion molecule L1,L1CAM,P32004;P32004-2;F5H1H0;F5H025;G3XAF4,8.02,0.8,1,,,,,NaN,0.000
+Neural cell adhesion molecule L1-like protein;Processed neural cell adhesion molecule L1-like protein,CHL1,O00533-2;O00533,8.80,10.8,12,,,,,4.15,0.000
+Neuroblast differentiation-associated protein AHNAK,AHNAK,Q09666;Q8N274,7.66,4.4,4,,,,,2.90,0.000
+Neuronal growth regulator 1,NEGR1,Q7Z3B1;Q8N440,7.48,7.9,2,,,,,3.60,0.000
+Neuropilin-1,NRP1,O14786;E9PEP6;E7EX60;Q5T7F0;Q5T7F1;O14786-2;Q5JWQ6,7.45,2.4,2,,,,,4.11,0.000
+Neuropilin-2,NRP2,O60462;O60462-5;F5H2X3;F5H1G4;O60462-4;O60462-2;O60462-3;E9PF66,7.58,4.6,4,,,,,NaN,0.000
+Neutral alpha-glucosidase AB,GANAB,Q14697;Q14697-2;F5H6X6;E9PKU7,7.28,8.1,8,,,,,3.81,0.000
+Nidogen-1,NID1,P14543;P14543-2,NaN,1.3,1,,,,,4.62,0.000
+Nidogen-2,NID2,Q14112;Q14112-2;E7EPP3;H0Y3N6,6.04,1.7,2,,,,,4.62,0.000
+Noelin,OLFM1,Q99784;Q6IMJ5;Q99784-3;F5H810,8.21,10.7,5,,,,,4.75,0.000
+Non-histone chromosomal protein HMG-17;High mobility group nucleosome-binding domain-containing protein 3,HMGN2;HMGN3,P05204;Q15651;Q15651-2,7.53,10.0,1,,,,,4.34,0.003
+Non-POU domain-containing octamer-binding protein,NONO,Q15233;H7C367;C9JYS8;F5GYZ3,6.73,4.5,2,,,,,NaN,0.000
+Non-specific lipid-transfer protein,SCP2,P22307;B4DHP6;A6NM69;C9JC79;E1B6W5;P22307-2,6.32,2.0,1,,,,,4.15,0.000
+Nuclear migration protein nudC,NUDC,Q9Y266,6.60,8.2,3,,,,,NaN,0.000
+Nuclease-sensitive element-binding protein 1,YBX1,P67809;H0Y449;E7ETA0,7.71,18.5,4,,,,,3.36,0.000
+Nucleobindin-1,NUCB1,Q02818;C9JKZ2;H7BZI1,7.16,5.2,2,,,,,4.26,0.000
+Nucleolar RNA helicase 2,DDX21,Q9NR30;Q9NR30-2,7.09,4.7,3,,,,,NaN,0.000
+Nucleolin,NCL,P19338;E7EX81;H7BY16;Q9BQ02,8.37,10.4,7,,,,,NaN,0.000
+Nucleophosmin,NPM1,P06748;P06748-2;P06748-3,8.71,19.4,5,,,,,3.59,0.000
+Nucleoside diphosphate kinase 3,NME3,Q13232,7.61,5.9,1,,,,,3.15,0.000
+Nucleoside diphosphate kinase A,NME1,P15531;P15531-2,7.15,41.4,5,,,,,NaN,0.000
+Nucleoside diphosphate kinase B;Nucleoside diphosphate kinase;Putative nucleoside diphosphate kinase,NME2;NME1-NME2;NME1;NME2P1,P22392-2;Q32Q12;P22392;E7ERL0;O60361,8.11,39.3,7,,,,,4.04,0.000
+Nucleosome assembly protein 1-like 1,NAP1L1,P55209;H0YH88;H0YHC3;F8W020;F8W118;F8VXI6;F8VUX1;F8VY35;B3KV44;F8VV59;F8W543;B7Z9C2;F8W0J6;F5H4R6;H0YIV4;B3KNT8,6.76,4.6,1,,,,,3.63,0.000
+Omega-amidase NIT2,NIT2,Q9NQR4,NaN,5.4,1,,,,,3.85,0.009
+Oncoprotein-induced transcript 3 protein,OIT3,Q8WWZ8,7.73,7.2,4,,,,,3.81,0.000
+Oncostatin-M-specific receptor subunit beta,OSMR,Q99650;Q99650-2,6.67,0.9,1,,,,,3.29,0.003
+Osteoclast-associated immunoglobulin-like receptor,OSCAR,Q8IYS5-4;Q8IYS5-5;Q8IYS5;Q8IYS5-7;Q8IYS5-6;Q8IYS5-2;Q8IYS5-3,6.57,3.7,1,,,,,3.40,0.000
+Osteomodulin,OMD,Q99983,7.58,4.3,2,,,,,NaN,0.009
+Osteopontin,SPP1;opn,P10451;P10451-5;C9JXD2;P10451-4;P10451-2;Q3LGB0;P10451-3;D6R9C5,7.33,9.2,2,,,,,5.10,0.000
+Out at first protein homolog,OAF,Q86UD1;E9PJ29,8.12,3.3,1,,,,,NaN,0.000
+Oxidoreductase HTATIP2,HTATIP2,Q9BUP3;E9PI87;Q9BUP3-3,7.12,5.4,1,,,,,NaN,0.007
+Pancreatic alpha-amylase;Alpha-amylase 2B;Alpha-amylase 1;Alpha-amylase,AMY2A;AMY2B;AMY1A;AMY1B,P04746;P19961;P04745;B3KTI1;Q5T085,8.38,7.2,3,+,,+,,NaN,0.000
+Pantetheinase,VNN1,O95497,8.12,8.6,4,,,,,4.75,0.000
+Peptidase inhibitor 16,PI16,Q6UXB8;Q6UXB8-2,8.70,7.8,4,,,,,4.61,0.000
+"Peptidyl-prolyl cis-trans isomerase A;Peptidyl-prolyl cis-trans isomerase A, N-terminally processed;Peptidyl-prolyl cis-trans isomerase",PPIA,P62937;B4DM82;F8WE65;C9J5S7;Q567Q0,8.92,60.6,9,,,,,5.15,0.000
+Peptidyl-prolyl cis-trans isomerase B,PPIB,P23284,7.52,7.4,2,,,,,4.32,0.000
+"Peptidyl-prolyl cis-trans isomerase FKBP4;Peptidyl-prolyl cis-trans isomerase FKBP4, N-terminally processed;Peptidyl-prolyl cis-trans isomerase",FKBP4,Q02790;F5H1U3,NaN,2.2,1,,,,,NaN,0.000
+Perilipin-3,PLIN3,O60664;O60664-3,6.69,3.5,1,,,,,3.11,0.000
+Periostin,POSTN,B1ALD9;Q15063-3;Q15063-4,8.35,11.3,7,,,,,4.20,0.000
+Peroxidasin homolog,PXDN,Q92626;H7C300;C9J4I9;H7C1W1;Q92626-2,5.03,1.1,1,,,,,NaN,0.007
+Peroxiredoxin-1,PRDX1,Q06830,8.71,45.2,9,,,,,4.78,0.000
+Peroxiredoxin-2,PRDX2,P32119,8.60,19.2,4,,,,,5.71,0.000
+Peroxiredoxin-4,PRDX4,Q13162;H7C3T4,6.88,10.3,3,,,,,NaN,0.000
+"Peroxiredoxin-5, mitochondrial",PRDX5,P30044;P30044-2;A6NC19;A6NG06,7.68,11.7,2,,,,,3.98,0.000
+Peroxiredoxin-6,PRDX6,P30041,8.10,29.9,7,,,,,4.40,0.000
+Phosphatidylcholine-sterol acyltransferase,LCAT,P04180,9.07,24.5,8,,,,,5.34,0.000
+Phosphatidylethanolamine-binding protein 1;Hippocampal cholinergic neurostimulating peptide,PEBP1,P30086;B4DRT4,7.39,19.3,3,,,,,5.28,0.000
+"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 1",INPP5D,Q92835;C9JLW2;C9JF09;F5GXI6;Q92835-2,8.72,1.2,2,,,,,5.61,0.002
+Phosphatidylinositol-glycan-specific phospholipase D,GPLD1,P80108,9.85,25.2,17,,,,,5.66,0.000
+"Phosphoenolpyruvate carboxykinase [GTP], mitochondrial;Phosphoenolpyruvate carboxykinase, cytosolic [GTP]",PCK2;PCK1,Q16822;P35558;H0YFK2;B4DT64;H0YML5;B4DW73,7.20,1.2,1,,,,,3.08,0.007
+Phosphoglycerate kinase 1;Phosphoglycerate kinase,PGK1,P00558;B7Z7A9;B4E1H9;B4DHM5;E7ERH5,8.20,17.0,5,,,,,5.00,0.000
+Phosphoglycerate mutase 1,PGAM1,P18669,7.49,33.1,7,,,,,4.68,0.000
+Phospholipid transfer protein,PLTP,P55058;B3KUE5;E7EV16;P55058-2,9.29,27.0,11,,,,,4.81,0.000
+Phosphoserine aminotransferase,PSAT1,Q9Y617;Q9Y617-2,NaN,3.8,1,,,,,3.81,0.000
+Pigment epithelium-derived factor,SERPINF1,P36955;I3L3M1,10.23,49.8,18,,,,,6.81,0.000
+Plasma alpha-L-fucosidase,FUCA2,Q9BTY2,7.95,6.6,3,,,,,3.11,0.000
+Plasma kallikrein;Plasma kallikrein heavy chain;Plasma kallikrein light chain,KLKB1,P03952;H0YAC1;E7EQA8;E9PBC5,10.28,29.5,19,,,,,6.41,0.000
+Plasma protease C1 inhibitor,SERPING1,P05155;B4E1F0;B4E1H2;H9KV48;E9PGN7,10.73,36.2,20,+,+,,,8.14,0.000
+Plasma serine protease inhibitor,SERPINA5,P05154;F5H6K7;E9PHH2;G3V5Q9;G3V2M1,9.44,36.0,13,,,,,8.57,0.000
+Plasminogen activator inhibitor 1 RNA-binding protein,SERBP1,Q8NC51;Q8NC51-3;Q8NC51-4;Q8NC51-2,7.64,13.5,4,,,,,3.36,0.000
+Plasminogen activator inhibitor 2,SERPINB2;SERPINB10,P05120;H7C004;H7BYS2,8.12,2.4,1,,,,,NaN,0.000
+"Plasminogen;Plasmin heavy chain A;Activation peptide;Angiostatin;Plasmin heavy chain A, short form;Plasmin light chain B",PLG,P00747,10.57,25.4,18,+,+,,,7.74,0.000
+Plastin-2,LCP1,P13796,9.19,30.1,15,,,,,5.18,0.000
+Plastin-3,PLS3,P13797;F8W8D8;B7Z6M1;B4DGB4,7.31,9.0,5,,,,,5.18,0.000
+Platelet basic protein;Connective tissue-activating peptide III;TC-2;Connective tissue-activating peptide III(1-81);Beta-thromboglobulin;Neutrophil-activating peptide 2(74);Neutrophil-activating peptide 2(73);Neutrophil-activating peptide 2;TC-1;Neutrophil-activating peptide 2(1-66);Neutrophil-activating peptide 2(1-63),PPBP,P02775,8.67,19.5,2,+,+,,,6.55,0.000
+Platelet endothelial cell adhesion molecule,PECAM1,P16284;P16284-3;P16284-2;P16284-6;P16284-5;P16284-4,7.26,4.3,3,,,,,NaN,0.000
+"Platelet factor 4 variant;Platelet factor 4 variant(4-74);Platelet factor 4 variant(5-74);Platelet factor 4 variant(6-74);Platelet factor 4;Platelet factor 4, short form",PF4V1;PF4,P10720;P02776,8.22,8.7,1,,,,,5.28,0.002
+Platelet glycoprotein Ib alpha chain;Glycocalicin,GP1BA,P07359;E7ES66,8.33,10.4,6,,,,,4.26,0.000
+Platelet glycoprotein V,GP5,P40197,6.32,2.0,1,,,,,7.24,0.000
+Platelet-activating factor acetylhydrolase,PLA2G7,Q13093;F5GYY6,7.46,7.9,3,,,,,NaN,0.000
+Plectin,PLEC,Q15149;Q15149-4;Q15149-2;Q15149-6;Q15149-9;Q15149-7;Q15149-8;Q15149-5;Q15149-3,7.15,1.2,3,,,,,3.88,0.000
+Plexin domain-containing protein 1,PLXDC1,Q8IUK5;C9JWQ3;B3KSI0;Q8IUK5-3;Q8IUK5-2;Q8IUK5-4;C9JCL2;B4E173,7.14,4.4,2,,,,,NaN,0.000
+Plexin domain-containing protein 2,PLXDC2,Q6UX71;F5H554;B7WP84;Q6UX71-2,7.95,7.6,4,,,,,3.20,0.000
+Podocalyxin,PODXL,O00592;F5H3W1;F5H7A2;F5GWY5;O00592-2,7.54,1.6,1,,,,,NaN,0.000
+Poliovirus receptor,PVR,P15151;P15151-3;P15151-2;P15151-4,8.34,10.8,5,,,,,4.36,0.000
+Poly(rC)-binding protein 1,PCBP1,Q15365,7.99,18.8,5,,,,,3.54,0.000
+Poly(rC)-binding protein 2;Poly(rC)-binding protein 3,PCBP2;PCBP3,Q15366;Q15366-4;Q15366-5;B4DRD7;H3BRU6;F8VWQ4;F8VZX2;B4DXP5;F8VRG9;G3V0E8;Q15366-3;Q15366-2;B4DLC0;P57721;F8W0G4;F8VXH9;H3BSS4;H9KV40;E9PFP8;P57721-2;P57721-3;P57721-5;P57721-4,7.50,14.8,4,,,,,3.54,0.000
+Polyadenylate-binding protein 1;Polyadenylate-binding protein 3;Polyadenylate-binding protein 5;Polyadenylate-binding protein 1-like,PABPC1;PABPC3;PABPC5;PABPC1L,P11940;E7EQV3;P11940-2;Q9H361;Q96DU9;Q4VXU2;H0YC10;E5RGH3;E5RH24;E5RJB9;H0YAS7;H0YAS6;H0YB75;Q4VY17;E7ERJ7,6.71,1.4,1,,,,,3.28,0.000
+Polymeric immunoglobulin receptor;Secretory component,PIGR,P01833,8.75,12.8,8,,,,,4.40,0.000
+Polypyrimidine tract-binding protein 1,PTBP1,P26599;P26599-2;P26599-3,7.44,7.0,3,,,,,NaN,0.000
+Polyubiquitin-B;Ubiquitin;Ubiquitin-40S ribosomal protein S27a;Ubiquitin;40S ribosomal protein S27a;Ubiquitin-60S ribosomal protein L40;Ubiquitin;60S ribosomal protein L40;Polyubiquitin-C;Ubiquitin,UBB;RPS27A;UBA52;UBC,P0CG47;P62979;P62987;F5H6Q2;F5GYU3;F5H2Z3;F5H265;F5H7Y5;B4DV12;F5H388;F5H747;F5GXK7;Q96C32;F5H7K6;F5H041;P0CG48;F5H4D8,8.78,44.5,3,,,,,NaN,0.000
+Pre-B-cell leukemia transcription factor-interacting protein 1,PBXIP1,Q96AQ6;F5H6Z1;B4E1J0;F5H2F6;Q96AQ6-3;Q96AQ6-2,8.54,1.5,1,,,,,NaN,0.003
+Prefoldin subunit 2,PFDN2,Q9UHV9,7.03,7.8,1,,,,,NaN,0.001
+Pregnancy zone protein,PZP,P20742;P20742-2,7.56,9.2,12,,,,,7.49,0.000
+Prelamin-A/C;Lamin-A/C,LMNA,P02545;P02545-3;P02545-2;Q6UYC3;Q5TCJ4;Q3BDU5;D6RAQ3;E7EUI9;Q5TCI8,8.30,19.9,12,,,,,3.88,0.000
+Pre-mRNA-processing factor 19,PRPF19,Q9UMS4;H0YGF3;F5GY56,6.71,2.8,1,,,,,NaN,0.002
+Pre-mRNA-splicing factor SYF2,SYF2,O95926,6.13,11.5,1,,,,,NaN,0.000
+Prenylcysteine oxidase 1,PCYOX1,Q9UHG3;B7Z3Y2;B7Z9P8;F8W8W4,8.77,12.7,6,,,,,4.73,0.000
+Probable G-protein coupled receptor 116,GPR116,Q8IZF2;E9PBS6;Q8IZF2-3;Q8IZF2-2;H0YFX7;F5GWK9,7.63,3.1,3,,,,,4.08,0.000
+Pro-cathepsin H;Cathepsin H mini chain;Cathepsin H;Cathepsin H heavy chain;Cathepsin H light chain,CTSH,P09668;E9PBP2,7.50,6.6,2,,,,,5.11,0.000
+Procollagen C-endopeptidase enhancer 1,PCOLCE,Q15113,7.85,9.4,3,,,,,5.04,0.000
+Profilin-1,PFN1,P07737,8.25,36.4,5,,,,,5.11,0.000
+Programmed cell death protein 6,PDCD6,O75340;H0Y9X3;Q2YDC2,8.72,5.8,1,,,,,NaN,0.001
+Prohibitin,PHB,P35232;C9JW96;D6RBK0;C9JZ20;E7ESE2;E9PCW0;B4DY47,8.00,8.5,2,,,,,NaN,0.000
+Prolactin-inducible protein,PIP,P12273,6.56,8.2,1,,,,,4.34,0.000
+Proliferating cell nuclear antigen,PCNA,P12004,7.11,8.8,3,,,,,NaN,0.000
+Proliferation-associated protein 2G4,PA2G4,Q9UQ80;F8VTY8;H0Y3X3;F8VR77;F8VRZ3,7.34,7.9,3,,,,,3.45,0.000
+Proline-rich acidic protein 1,PRAP1,Q96NZ9-3;Q96NZ9;H7BY64,6.86,5.3,1,,,,,NaN,0.000
+Prolow-density lipoprotein receptor-related protein 1;Low-density lipoprotein receptor-related protein 1 85 kDa subunit;Low-density lipoprotein receptor-related protein 1 515 kDa subunit;Low-density lipoprotein receptor-related protein 1 intracellular domain,LRP1,Q07954,8.07,2.4,10,,,,,6.73,0.000
+Properdin,CFP,P27918;E9PAQ1,8.05,6.6,3,,,,,5.52,0.000
+Proprotein convertase subtilisin/kexin type 9,PCSK9,Q8NBP7,8.21,8.7,5,,,,,4.91,0.000
+Prosaposin;Saposin-A;Saposin-B-Val;Saposin-B;Saposin-C;Saposin-D,PSAP,P07602;C9JIZ6;F8W6Z6;B1AVU8;P07602-2;P07602-3;F5H0X6;Q5BJH1,6.87,4.6,2,,,,,4.52,0.000
+Prostaglandin-H2 D-isomerase,PTGDS,P41222;H0Y5A1;F8W7I2;Q5SQ11,8.77,16.3,3,,,,,7.08,0.000
+Proteasomal ubiquitin receptor ADRM1,ADRM1,Q16186;E9PEC0,6.39,3.9,1,,,,,NaN,0.002
+Proteasome subunit alpha type-1;Proteasome subunit alpha type,PSMA1,P25786;P25786-2;B4DEV8;F5GX11,NaN,6.8,2,,,,,3.92,0.000
+Proteasome subunit alpha type-3,PSMA3,P25788;P25788-2;G3V4X5,5.83,3.1,1,,,,,4.04,0.000
+Proteasome subunit alpha type-4;Proteasome subunit alpha type;Proteasome subunit beta type,PSMA4,P25789;H0YMZ1;H0YN18;H0YL69;H0YLS6;H0YLC2;H0YKT8;H0YMI6;H0YMA1;P25789-2,7.80,3.1,1,,,,,4.04,0.000
+Proteasome subunit alpha type-5,PSMA5,P28066;B4E2V4,6.35,7.9,1,,,,,3.89,0.000
+Proteasome subunit alpha type-6;Proteasome subunit alpha type,PSMA6,P60900;G3V295;G3V5Z7;G3V3U4;G3V3I1;B4DXJ9,6.85,4.9,1,,,,,4.23,0.000
+Proteasome subunit alpha type-7;Proteasome subunit alpha type-7-like,PSMA7;PSMA8,O14818;O14818-2;H0Y586;Q8TAA3;Q8TAA3-2;F5GY34;F5H3G5;Q8TAA3-5,7.12,21.0,4,,,,,3.97,0.000
+Proteasome subunit beta type-2,PSMB2,P49721,6.91,9.0,2,,,,,3.86,0.000
+Proteasome subunit beta type-5,PSMB5,P28074;E9PAV2,6.05,4.6,1,,,,,3.70,0.000
+Proteasome subunit beta type-6,PSMB6,P28072,NaN,4.2,1,,,,,3.54,0.002
+Proteasome subunit beta type-7,PSMB7,Q99436,6.77,4.7,2,,,,,3.68,0.000
+Protein AMBP;Alpha-1-microglobulin;Inter-alpha-trypsin inhibitor light chain;Trypstatin,AMBP,P02760;B7Z8R6,9.63,32.7,8,,,,,7.68,0.000
+Protein disulfide-isomerase,P4HB,P07237;E7EPA8;I3L2P8;F5H8J2;B4DUA5;H7BZ94;H0Y3Z3,8.21,28.0,12,,,,,4.36,0.000
+Protein disulfide-isomerase A3;Protein disulfide-isomerase,PDIA3,P30101;B3KQT9;G5EA52;F5H119,8.02,15.2,6,,,,,4.51,0.000
+Protein disulfide-isomerase A4,PDIA4,P13667,7.36,12.2,7,,,,,3.81,0.000
+Protein disulfide-isomerase A6,PDIA6,Q15084;B7Z254;F8WA83;B5MCQ5;Q15084-2,7.30,5.7,2,,,,,3.60,0.000
+Protein DJ-1,PARK7,Q99497,7.52,16.4,3,,,,,4.36,0.000
+Protein HEG homolog 1,HEG1,Q9ULI3;Q9ULI3-2,7.73,2.6,3,,,,,3.82,0.000
+Protein lin-7 homolog C;Protein lin-7 homolog A,LIN7C;LIN7A,Q9NUP9;O14910;H0YI92;H0YIA8,6.79,8.1,1,,,,,NaN,0.000
+Protein MENT,MENT,Q9BUN1,7.48,6.7,2,,,,,NaN,0.000
+"Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1",POMGNT1,Q8WZA1;F5H827;Q5VST3,6.45,1.8,1,,,,,NaN,0.000
+Protein phosphatase 1 regulatory subunit 21,PPP1R21,Q6ZMI0;Q6ZMI0-3;Q6ZMI0-2,NaN,1.2,1,,,,,NaN,0.001
+"Protein S100-A11;Protein S100-A11, N-terminally processed",S100A11,P31949,7.67,17.1,2,,,,,4.26,0.003
+Protein S100-A16,S100A16,Q96FQ6,6.37,11.7,1,,,,,NaN,0.003
+Protein S100-A4,S100A4,P26447;F5H3J5,6.67,27.7,3,,,,,3.51,0.000
+Protein S100-A6,S100A6,P06703,7.88,18.9,2,,,,,4.45,0.000
+"Protein S100-A8;Protein S100-A8, N-terminally processed",S100A8,P05109,7.84,39.8,4,,,,,5.43,0.000
+Protein S100-A9,S100A9,P06702,8.43,37.7,3,,,,,6.28,0.000
+Protein S100-P,S100P,P25815,6.43,13.7,1,,,,,3.86,0.001
+Protein SET,SET,Q01105;Q01105-2;B2REB8;A6NGV1;Q5VXV2,7.90,16.9,4,,,,,NaN,0.000
+Protein Z-dependent protease inhibitor,SERPINA10,Q9UK55;G3V2W1,9.45,31.5,12,,,,,5.99,0.000
+Protein-glutamine gamma-glutamyltransferase E;Protein-glutamine gamma-glutamyltransferase E 50 kDa catalytic chain;Protein-glutamine gamma-glutamyltransferase E 27 kDa non-catalytic chain,TGM3,Q08188;E7ERY7,6.42,1.9,1,,,,,3.38,0.000
+Protein-L-isoaspartate(D-aspartate) O-methyltransferase;Protein-L-isoaspartate O-methyltransferase,PCMT1,P22061;B7Z972;H7BY58;P22061-2,6.39,5.7,1,,,,,3.59,0.000
+Proteoglycan 4;Proteoglycan 4 C-terminal part,PRG4,Q92954-6;Q92954;Q92954-4;Q92954-3;Q92954-2;Q92954-5;E7EQ48,9.21,7.5,10,,,,,5.41,0.000
+Proteolipid protein 2,PLP2,Q04941,7.09,8.6,1,,,,,NaN,0.002
+Prothrombin;Activation peptide fragment 1;Activation peptide fragment 2;Thrombin light chain;Thrombin heavy chain,F2,P00734;E9PIT3,10.49,23.2,14,,,,,7.09,0.000
+"Prothymosin alpha;Prothymosin alpha, N-terminally processed;Thymosin alpha-1",PTMA,P06454;P06454-2;B8ZZQ6;B8ZZA1;B8ZZW7;H7C2N1,7.44,21.6,2,,,,,3.86,0.000
+Protocadherin Fat 4,FAT4,Q6V0I7;Q6V0I7-3,6.68,0.2,1,,,,,NaN,0.003
+Protocadherin-12,PCDH12,Q9NPG4,8.14,3.5,4,,,,,NaN,0.000
+Protocadherin-18,PCDH18,Q9HCL0;Q9HCL0-2,6.26,0.9,1,,,,,NaN,0.000
+P-selectin,SELP,P16109;Q5R343;Q5R342;H0Y416;Q5R348;Q5R345;Q5R341;G3V1U2;Q5R349,6.40,1.0,1,,,,,4.82,0.001
+PTB domain-containing engulfment adapter protein 1,GULP1,Q9UBP9;E9PB86;H7BZV7;B8ZZ72,7.25,6.9,2,,,,,4.08,0.009
+Purine nucleoside phosphorylase,PNP,P00491,6.96,3.8,1,,,,,3.96,0.000
+Putative heat shock protein HSP 90-beta 2,HSP90AB2P,Q58FF8,8.01,15.0,6,,,,,NaN,0.000
+Putative sodium-coupled neutral amino acid transporter 10,SLC38A10,Q9HBR0;H0YF92;Q9HBR0-3;I3L0Q8,5.65,1.3,1,,,,,3.52,0.000
+Putative V-set and immunoglobulin domain-containing-like protein IGHV4OR15-8,IGHV4OR15-8,A6NJ16,8.40,13.0,2,,,,,NaN,0.005
+"Pyrroline-5-carboxylate reductase 1, mitochondrial",PYCR1,P32322;A6NFM2;B4DMU0,6.13,3.4,1,,,,,NaN,0.006
+"Pyruvate carboxylase, mitochondrial",PC,P11498,7.89,2.3,3,,,,,NaN,0.000
+Pyruvate kinase PKM;Pyruvate kinase,PKM,P14618;E9PF79;P14618-3;H3BQ34,8.55,31.8,13,,,,,3.40,0.000
+Pyruvate kinase PKM;Pyruvate kinase,PKM;PKM2,P14618-2;H3BTN5;Q504U3;E7EUJ4,NaN,28.6,12,,,,,3.40,0.007
+Rab GDP dissociation inhibitor alpha,GDI1,P31150;B4DHX4,NaN,1.8,1,,,,,4.46,0.001
+Rab GDP dissociation inhibitor beta,GDI2,P50395;E7EU23;P50395-2,7.03,4.5,2,,,,,4.46,0.000
+Ras GTPase-activating protein-binding protein 1,G3BP1,Q13283;F5H4D6;F8W7N6,6.77,4.5,2,,,,,NaN,0.001
+Ras GTPase-activating-like protein IQGAP1,IQGAP1,P46940;H0YLE8,7.39,1.1,2,,,,,NaN,0.000
+Ras-related protein Rab-10;Ras-related protein Rab-8A;Ras-related protein Rab-13;Ras-related protein Rab-8B;Ras-related protein Rab-15;Putative Ras-related protein Rab-1C,RAB10;RAB8A;RAB13;RAB8B;RAB15;RAB1C;RAB1B,P61026;P61006;P51153;Q92930;P59190;Q92928;P59190-2;H0YLJ8;H0YL94;H0YMN7;E9PLD0;H0YNE9;F5GY21,NaN,5.5,1,,,,,NaN,0.008
+Ras-related protein Rab-1A;Ras-related protein Rab-1B,RAB1A;RAB1B,P62820;E7END7;Q9H0U4;E7ETK2;E7EWA5;B7Z8M7;P62820-3;P62820-2,7.00,11.2,2,,,,,NaN,0.000
+Ras-related protein Rab-5C;Ras-related protein Rab-5A;Ras-related protein Rab-5B,RAB5C;RAB5A;RAB5B,P51148;F8W1H5;P20339;P61020;F8VWU4;F8VVZ0;F8VUA5;F8VVK3;B4DKD7;B4DJA5,NaN,5.6,1,,,,,NaN,0.002
+Receptor expression-enhancing protein 5,REEP5,Q00765;E2QRG8,7.75,9.5,2,,,,,NaN,0.000
+Receptor-type tyrosine-protein phosphatase beta,PTPRB;IGFL2,P23467-3;F8VU56;P23467;F8VSD5;P23467-2;F5H3G6;F5H0Y4;Q6ZR19,7.48,0.4,1,,,,,NaN,0.000
+Receptor-type tyrosine-protein phosphatase eta,PTPRJ,Q12913;Q9NPR5;Q12913-2,8.47,8.2,7,,,,,4.00,0.000
+Receptor-type tyrosine-protein phosphatase F,PTPRF,P10586;P10586-2;H0Y6Z7;H0Y7Z9;F2Z3B8,7.72,3.3,5,,,,,4.54,0.000
+Receptor-type tyrosine-protein phosphatase gamma,PTPRG,P23470;P23470-2,7.97,1.9,2,,,,,3.69,0.000
+Receptor-type tyrosine-protein phosphatase mu,PTPRM,P28827;E7EPS8;F8WA38;E7EVX9,7.55,2.9,3,,,,,4.67,0.000
+Receptor-type tyrosine-protein phosphatase S,PTPRS,Q13332-6;Q13332-2;Q13332;G8JL96;F8W9T5;F8W846;E9PDC5;Q13332-3;Q13332-4;F5H2T4;H0YG31;Q13332-7;F8W800;Q13332-5,7.01,0.9,2,,,,,3.81,0.000
+Reelin,RELN,P78509;P78509-3;P78509-2;F8WF74,NaN,0.3,1,,,,,NaN,0.000
+Regulator of chromosome condensation,RCC1,P18754;P18754-2;H7C497;C9JRH2;C9JMJ4;C9J3R0;C9JQZ4;C9JW69,6.37,4.5,1,,,,,NaN,0.000
+Repulsive guidance molecule A,RGMA,Q96B86;F5H7G2;F5GZU6;G3V518;Q96B86-2,6.74,2.4,1,,,,,NaN,0.005
+Reticulocalbin-1,RCN1,Q15293;B7Z1M1;E9PNT6;E9PJD5,7.73,4.8,2,,,,,NaN,0.003
+Reticulon-4 receptor-like 2,RTN4RL2,Q86UN3;G3V1D7;Q0GGW3,6.50,1.9,1,,,,,NaN,0.000
+Retinal dehydrogenase 1,ALDH1A1,P00352;H0Y4S2,8.16,5.4,3,,,,,5.08,0.000
+Retinoic acid receptor responder protein 2,RARRES2,Q99969;C9J8S2,8.32,17.8,2,,,,,5.76,0.000
+Retinol dehydrogenase 11,RDH11,Q8TC12;H0YJ10;H0YIZ8;G3V2G6;G3V234;H0YJ46;Q8TC12-2,6.06,4.1,1,,,,,NaN,0.007
+Retinol-binding protein 4;Plasma retinol-binding protein(1-182);Plasma retinol-binding protein(1-181);Plasma retinol-binding protein(1-179);Plasma retinol-binding protein(1-176),RBP4,P02753;Q5VY30;A6NCP9,9.70,39.3,6,+,+,,,8.76,0.000
+Rho GDP-dissociation inhibitor 1,ARHGDIA,P52565;A8MXW0,6.58,4.9,1,,,,,4.04,0.000
+Rho GTPase-activating protein 26,ARHGAP26,C9J6V4;Q9UNA1;Q9UNA1-2,6.41,9.9,1,,,,,NaN,0.003
+Ribonuclease 4,RNASE4,P34096,7.85,29.3,3,,,,,3.74,0.000
+Ribonuclease inhibitor,RNH1,P13489;E9PMJ3;E9PLZ3;E9PIM9,6.82,3.3,1,,,,,4.63,0.000
+Ribonuclease T2,RNASET2,O00584;D6REQ6;D6RHI9;C9JIU8;H0YAE9,6.77,4.7,1,,,,,4.36,0.000
+Ribosyldihydronicotinamide dehydrogenase [quinone],NQO2,P16083;Q5TD05;Q59EN2;Q5TD07;A2A2U4,6.82,3.9,1,,,,,3.49,0.000
+RNA-binding protein 39,RBM39;RNPC2,Q14498;H0Y4X3;E1P5S2;G3XAC6;Q14498-3;Q14498-2,NaN,1.9,1,,,,,NaN,0.005
+Roundabout homolog 4,ROBO4,Q8WZ75;Q8WZ75-2;F8W857;Q8WZ75-3;B4DYV8,7.71,2.3,3,,,,,NaN,0.000
+"rRNA methyltransferase 1, mitochondrial",MRM1,Q6IN84,7.56,4.2,2,,,,,NaN,0.009
+Sacsin,SACS,Q9NZJ4;Q9NZJ4-2,NaN,0.2,1,,,,,NaN,0.008
+S-adenosylmethionine synthase isoform type-1,MAT1A,Q00266,6.35,2.3,1,,,,,NaN,0.002
+Scavenger receptor cysteine-rich type 1 protein M130;Soluble CD163,CD163,Q86VB7;Q86VB7-3;F5GZZ9;C9JHR8;Q86VB7-4;Q86VB7-2,7.88,4.7,5,,,,,4.97,0.000
+Secreted phosphoprotein 24,SPP2,Q13103,8.35,13.3,3,,,,,5.90,0.000
+Seizure 6-like protein,SEZ6L,Q9BYH1;B0QYH4;B0QYH5;Q9BYH1-2;Q9BYH1-3;Q9BYH1-5;Q9BYH1-4;G8JLP3;Q9BYH1-6,6.48,0.9,1,,,,,NaN,0.002
+Selenium-binding protein 1,SELENBP1,Q13228;Q13228-2;B4E1F3;A6PVW9,NaN,2.5,1,,,,,4.94,0.000
+Selenoprotein P,SEPP1,P49908;D6REX5;D6RIS9,9.00,8.4,4,,,,,5.71,0.000
+Semaphorin-4B,SEMA4B,Q9NPR2-2;Q9NPR2;H0YMZ3,7.24,1.2,1,,,,,NaN,0.000
+Seprase,FAP,Q12884;B4DLR2,6.68,2.6,2,,,,,3.30,0.000
+Serine protease HTRA1,HTRA1,Q92743;E7ESJ0;H0Y7G9,7.09,2.1,1,,,,,NaN,0.000
+Serine protease inhibitor Kazal-type 5;Hemofiltrate peptide HF6478;Hemofiltrate peptide HF7665,SPINK5,Q9NQ38-3;Q9NQ38,6.78,0.6,1,,,,,5.32,0.001
+Serine/arginine-rich splicing factor 1,SRSF1,Q07955,6.90,4.0,1,,,,,NaN,0.010
+Serine/arginine-rich splicing factor 10,SRSF10,O75494;O75494-3;O75494-4;Q5JRI1;O75494-5;Q5JRI3;O75494-2,7.63,4.6,1,,,,,NaN,0.000
+Serine/arginine-rich splicing factor 3,SRSF3,P84103;B4E241,6.85,5.5,1,,,,,NaN,0.007
+Serine/threonine-protein phosphatase PP1-beta catalytic subunit;Serine/threonine-protein phosphatase PP1-alpha catalytic subunit;Serine/threonine-protein phosphatase PP1-gamma catalytic subunit;Serine/threonine-protein phosphatase,PPP1CB;PPP1CA;PPP1CC,P62140;P62136;P36873;C9J9S3;C9JP48;E7ETD8;E9PMD7;F8VR82;F8VYE8;F8W0W8;E9PDP1;A6NNR3;P36873-2;P62136-2,7.04,4.9,1,,,,,NaN,0.000
+Serine-threonine kinase receptor-associated protein,STRAP,Q9Y3F4;B0AZV0;B4DNJ6;H0YH33,NaN,3.4,1,,,,,NaN,0.001
+Serotransferrin,TF,P02787,11.70,63.9,50,+,+,,,9.14,0.000
+Serpin A11,SERPINA11,Q86U17,7.44,5.9,3,,,,,3.83,0.000
+Serpin B12,SERPINB12,Q96P63;Q3SYB4,NaN,2.5,1,,,,,NaN,0.000
+Serpin B3,SERPINB3,P29508;P29508-2,6.15,3.1,1,,,,,3.79,0.000
+Serpin B5,SERPINB5,P36952,7.52,10.7,3,,,,,NaN,0.000
+Serum albumin,ALB,P02768;CON__P02768-1;E7ESU5;B7WNR0;H0YA55;D6RHD5;Q8IUK7;C9JKR2;P02768-2,12.38,86.4,71.00001,+,+,,,9.20,0.000
+Serum amyloid A-1 protein;Amyloid protein A;Serum amyloid protein A(2-104);Serum amyloid protein A(3-104);Serum amyloid protein A(2-103);Serum amyloid protein A(2-102);Serum amyloid protein A(4-101);Serum amyloid A protein,SAA1,P0DJI8;E9PQD6,9.04,59.8,6,,,,,6.59,0.000
+Serum amyloid A-2 protein,SAA2,P0DJI9,NaN,30.3,3,,,,,6.74,0.000
+Serum amyloid A-4 protein,SAA4,P35542,9.68,39.2,5,,,,,7.48,0.000
+Serum amyloid P-component;Serum amyloid P-component(1-203),APCS,P02743,10.42,40.8,11,,,,,6.70,0.000
+Serum paraoxonase/arylesterase 1,PON1,P27169;F5H4W9,10.70,65.9,14,,,,,6.89,0.000
+Serum paraoxonase/arylesterase 2,PON2,Q15165;G3V1K3;Q15165-3;Q15165-1,6.77,2.5,1,,,,,NaN,0.002
+Serum paraoxonase/lactonase 3,PON3,Q15166;F8WD41;C9JZ99,9.10,26.6,8,,,,,4.80,0.000
+Sex hormone-binding globulin,SHBG,P04278;I3L145;I3L1N7;I3L1J1;B4DYU0;I3L2X4;B0FWH4;E9PGW1;P04278-2;F5H5Z8,8.98,19.4,7,+,+,,,5.26,0.000
+S-formylglutathione hydrolase,ESD,P10768;H7BZT7,6.91,4.3,1,,,,,4.11,0.000
+SHC-transforming protein 1,SHC1,P29353;P29353-2;P29353-7;P29353-6;Q5T181;Q5T182;B4DL02,6.53,1.7,1,,,,,NaN,0.001
+Signal recognition particle 14 kDa protein,SRP14,P37108;H0YLW0;H0YLA2,6.67,14.7,2,,,,,NaN,0.005
+Signal recognition particle subunit SRP68,SRP68,Q9UHB9;Q96K98;F5H5Y3;E7ETK6;B3KUU5;G3V1U4;Q9UHB9-2,6.99,2.4,1,,,,,NaN,0.001
+"Single-stranded DNA-binding protein, mitochondrial",SSBP1,Q04837;C9K0U8;E7EUY5,7.67,6.1,1,,,,,NaN,0.006
+Small ubiquitin-related modifier 2;Small ubiquitin-related modifier 3;Small ubiquitin-related modifier 4,SUMO2;SUMO3;SUMO4,P61956;H7BZT4;P61956-2;P55854;Q6EEV6;A8MUA9;A8MU27;B4DUW4,7.57,23.2,2,,,,,3.90,0.000
+Sodium/potassium-transporting ATPase subunit alpha-1,ATP1A1,P05023;B7Z3U6;F5H3A1;P05023-2;H7BXX5,8.23,2.6,2,,,,,NaN,0.000
+Soluble scavenger receptor cysteine-rich domain-containing protein SSC5D,SSC5D,A1L4H1;F5GZN4;A1L4H1-2,7.50,1.1,2,,,,,NaN,0.000
+SPARC-like protein 1,SPARCL1,Q14515;B4E2Z0,8.56,14.3,8,,,,,4.72,0.000
+Splicing factor U2AF 35 kDa subunit;Splicing factor U2AF 26 kDa subunit,U2AF1;U2AF1L4,Q01081;Q8WU68;Q01081-3;Q8WU68-3;Q8WU68-2;Q01081-2,6.75,5.0,1,,,,,NaN,0.000
+"Splicing factor, proline- and glutamine-rich",SFPQ,P23246;P23246-2,7.22,2.7,1,,,,,NaN,0.000
+Spondin-2,SPON2,Q9BUD6;D6RB12,7.08,2.7,1,,,,,NaN,0.008
+Staphylococcal nuclease domain-containing protein 1,SND1,Q7KZF4;E7ESM6;H7C597,7.09,3.3,3,,,,,NaN,0.000
+"Stress-70 protein, mitochondrial",HSPA9,P38646;B7Z4V2;F5H3L8,8.11,19.7,11,,,,,3.40,0.000
+Stress-induced-phosphoprotein 1,STIP1,P31948;F5H0T1;G3XAD8,7.81,10.9,6,,,,,3.26,0.000
+"Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial",SUCLG1,P53597,8.50,6.9,2,,,,,3.45,0.000
+Sulfhydryl oxidase 1,QSOX1,O00391;O00391-2,9.38,24.9,15,,,,,5.18,0.000
+Superoxide dismutase [Cu-Zn],SOD1,P00441;H7BYH4,7.93,7.8,1,,,,,5.78,0.000
+"Superoxide dismutase [Mn], mitochondrial",SOD2,P04179;F5H4R2;F5GYZ5;B4E3K9;B3KUK2;F5H3C5;P04179-2,7.38,9.9,2,,,,,3.85,0.000
+Suprabasin,SBSN,E9PBV3;Q6UWP8,7.26,10.2,4,,,,,3.65,0.000
+Synaptic vesicle membrane protein VAT-1 homolog,VAT1,Q99536;B3KUF8;B0AZP7,7.45,6.4,2,,,,,NaN,0.000
+Talin-1,TLN1,Q9Y490;Q5TCU6,7.23,2.5,5,,,,,5.53,0.000
+Target of Nesh-SH3,ABI3BP,Q7Z7G0;Q7Z7G0-4;D3YTD6;B4DSV9;H0Y897;D3YTG3;Q7Z7G0-3;Q7Z7G0-2,8.39,5.8,5,,,,,4.04,0.000
+TATA-binding protein-associated factor 2N;RNA-binding protein FUS,TAF15;FUS,Q92804;P35637;F5GWQ7;B4DR70;H3BPE7;P35637-2;Q92804-2,7.02,2.4,1,,,,,NaN,0.001
+TBC1 domain family member 2B,TBC1D2B,Q9UPU7;Q9UPU7-2;Q9UPU7-3,8.49,2.4,2,,,,,NaN,0.009
+T-complex protein 1 subunit alpha,TCP1,P17987;F5H726;F5GZI8;F5H676;F5H136;F5H282;E7EQR6;E7ERF2,NaN,4.0,2,,,,,NaN,0.000
+T-complex protein 1 subunit beta,CCT2,P78371;P78371-2;F5GWF6;F8VQ14,7.16,12.5,6,,,,,NaN,0.000
+T-complex protein 1 subunit delta,CCT4,P50991;F5H5W3;B7Z9L0,7.07,7.4,3,,,,,3.08,0.000
+T-complex protein 1 subunit eta,CCT7,Q99832;F5GZK5;Q99832-4;Q99832-3;Q99832-2;B7Z1C9;B8ZZC9,NaN,2.2,1,,,,,3.23,0.000
+T-complex protein 1 subunit gamma,CCT3,P49368;P49368-2;B4DUR8,7.35,8.1,4,,,,,3.65,0.000
+T-complex protein 1 subunit theta,CCT8,P50990;G5E9B2;B4DEM7;B4DQH4,7.86,9.9,5,,,,,NaN,0.000
+T-complex protein 1 subunit zeta,CCT6A,P40227;B4DPJ8;A6NCD2,7.76,12.8,5,,,,,NaN,0.000
+Telomerase reverse transcriptase,TERT,O14746;O14746-3;O14746-2;Q8NG38,7.82,0.6,1,,,,,NaN,0.008
+Tenascin,TNC,P24821;P24821-4;E9PC84;P24821-3;F5H7V9;P24821-5;P24821-2;P24821-6,8.43,5.2,10,,,,,4.62,0.000
+Tenascin-X,TNXB,P22105;G5E9A9;B0V046;B0UYX3;E7EWZ8;E7EU03;E7EPQ1;E7EPZ9;P22105-3;H0Y3W5;H0Y6M7,8.82,6.5,18,,,,,4.85,0.000
+Tetranectin,CLEC3B,E9PHK0;P05452,9.68,38.1,5,,,,,7.76,0.000
+Thimet oligopeptidase,THOP1,P52888,6.63,1.3,1,,,,,3.08,0.000
+Thioredoxin,TXN,P10599;B1ALW1,8.42,46.7,5,,,,,3.92,0.000
+THO complex subunit 4,ALYREF,Q86V81;E9PB61,6.88,3.9,1,,,,,NaN,0.000
+"Threonine--tRNA ligase, cytoplasmic;Probable threonine--tRNA ligase 2, cytoplasmic",TARS;TARSL2,P26639;E7ERI3;G3XAN9;B4DEG8;A2RTX5;B7ZLP8;A2RTX5-2,8.00,2.4,2,,,,,3.04,0.001
+Thrombospondin-1,THBS1,P07996;CON__Q28194,7.89,3.7,3,,,,,5.62,0.000
+Thrombospondin-4,THBS4,P35443;E7ES19,8.12,6.9,6,,,,,4.96,0.000
+Thymosin beta-10,TMSB10,P63313,8.12,47.7,2,,,,,5.18,0.000
+Thymosin beta-4;Hematopoietic system regulatory peptide,TMSB4X;TMSB4XP4,P62328;Q5T4B6;CON__P21752,8.05,40.9,2,,,,,6.26,0.000
+Thyroxine-binding globulin,SERPINA7,P05543,10.00,41.0,15,+,+,,,6.11,0.000
+Tissue alpha-L-fucosidase,FUCA1,P04066,6.15,1.5,1,,,,,3.59,0.000
+Titin,TTN,Q8WZ42;E7ENC6;Q8WZ42-3;Q8WZ42-10;Q8WZ42-9;Q8WZ42-5;Q8WZ42-2;Q8WZ42-8;Q8WZ42-11;Q8WZ42-4;Q8WZ42-7,7.59,0.1,2,,,,,3.61,0.002
+Transaldolase,TALDO1,P37837;F2Z393,7.27,10.1,3,,,,,4.18,0.000
+Transcription elongation factor SPT6,SUPT6H,Q7KZ85;Q7KZ85-3,NaN,0.4,1,,,,,NaN,0.008
+Transcription factor BTF3,BTF3,P20290;D6RDG3;P20290-2;H0Y9Y1,6.53,3.9,1,,,,,3.76,0.002
+Transcription intermediary factor 1-beta,TRIM28,Q13263;Q13263-2,6.56,0.8,1,,,,,NaN,0.008
+"Transferrin receptor protein 1;Transferrin receptor protein 1, serum form",TFRC,P02786;G3V0E5;F5H6B1,8.87,17.2,11,+,,+,,5.46,0.000
+Transforming growth factor-beta-induced protein ig-h3,TGFBI,Q15582;G8JLA8;B9ZVW9;H0Y8L3,9.26,26.8,14,,,,,5.15,0.000
+Transgelin-2,TAGLN2,P37802,7.06,5.5,1,,,,,5.08,0.001
+Trans-Golgi network integral membrane protein 2,TGOLN2,O43493;O43493-2;F8W8W7;O43493-6;O43493-4;O43493-5;O43493-3;F8WBK2,NaN,2.9,1,,,,,NaN,0.000
+Transitional endoplasmic reticulum ATPase,VCP,P55072,7.65,7.2,5,,,,,4.23,0.000
+Transketolase,TKT,P29401;E7EPA7;B3KSI4;B4E022,9.07,30.0,15,,,,,4.95,0.000
+Translationally-controlled tumor protein;TPT1-like protein,TPT1,P13693;Q56UQ5;E9PJF7;Q8TBK7,7.27,12.2,2,,,,,3.41,0.000
+Transmembrane glycoprotein NMB,GPNMB,Q14956;F5GY20;Q14956-2;Q96F58,7.67,6.6,3,,,,,NaN,0.000
+Transthyretin,TTR,P02766;E7EW61;F5H868,11.14,69.4,11,+,+,,,8.56,0.000
+"Trifunctional enzyme subunit alpha, mitochondrial;Long-chain enoyl-CoA hydratase;Long chain 3-hydroxyacyl-CoA dehydrogenase",HADHA,P40939,7.18,1.0,1,,,,,NaN,0.000
+Trifunctional purine biosynthetic protein adenosine-3;Phosphoribosylamine--glycine ligase;Phosphoribosylformylglycinamidine cyclo-ligase;Phosphoribosylglycinamide formyltransferase,GART,P22102;B4DJ93;H7C489,6.87,2.4,2,,,,,3.49,0.000
+Triosephosphate isomerase,TPI1,P60174;P60174-1,7.80,18.9,5,,,,,5.30,0.000
+Tripartite motif-containing protein 29,TRIM29,Q14134;Q14134-2;B7Z8U9;E9PRL4,7.02,1.5,1,,,,,NaN,0.000
+Tropomyosin alpha-3 chain,TPM3,P06753-2;P06753-3;Q5VU59;Q5VU58;Q8NAG3;Q5VU61;Q5VU72;Q5VU66;P06753;Q5VU63,7.29,10.5,3,,,,,5.53,0.000
+Tropomyosin alpha-4 chain,TPM4,P67936;P67936-2,7.85,17.7,4,,,,,5.53,0.000
+Tropomyosin beta chain,TPM2,P07951-2;Q5TCU3;P07951;CON__Q3SX28;Q5TCU8;P07951-3,NaN,3.5,1,,,,,5.53,0.000
+"Tryptophan--tRNA ligase, cytoplasmic;T1-TrpRS;T2-TrpRS",WARS,P23381;P23381-2;G3V3H8;G3V3Y5,6.92,5.1,2,,,,,3.78,0.000
+Tubulin alpha-1B chain;Tubulin alpha-1C chain;Tubulin alpha-1A chain;Tubulin alpha-4A chain;Tubulin alpha-3C/D chain;Tubulin alpha-3E chain,TUBA1B;TUBA1C;TUBA1A;TUBA4A;TUBA3C;KLK9;TUBA3E,P68363;Q9BQE3;F5H5D3;Q71U36;G3V1U9;P68366;E9PGK3;A8MUB1;Q13748;F8VVB9;Q6PEY2;Q13748-2;F8VQQ4;F8VXZ4,9.11,35.3,13,,,,,4.96,0.000
+Tubulin beta chain;Tubulin beta-2B chain;Tubulin beta-2A chain;Tubulin beta-3 chain,TUBB;TUBB2B;TUBB2A;TUBB3,P07437;Q5JP53;F8VYX6;F8VW92;Q5ST81;F8VUJ7;Q9BVA1;Q13885;E7EWR1;Q13509;F5H894;F5H8C9;A8K854,8.15,33.8,13,,,,,4.43,0.000
+Tubulin beta-4B chain;Tubulin beta-4A chain,TUBB4B;TUBB4A,P68371;P04350;B4DJ43,9.97,37.1,14,,,,,NaN,0.000
+Tumor protein D54,TPD52L2,O43399;O43399-2;O43399-3;O43399-4;B4DPJ6;O43399-5;Q5JWU6,6.04,5.3,1,,,,,NaN,0.005
+Twisted gastrulation protein homolog 1,TWSG1,Q9GZX9;Q9GZX9-2,NaN,4.0,1,,,,,NaN,0.000
+Tyrosine-protein kinase receptor Tie-1,TIE1,P35590;B5A950;B5A949,NaN,0.6,1,,,,,NaN,0.000
+Ubiquitin-conjugating enzyme E2 N;Putative ubiquitin-conjugating enzyme E2 N-like,UBE2N;UBE2NL,P61088;Q5JXB2;F8VQQ8,6.86,7.2,1,,,,,3.57,0.005
+Ubiquitin-like modifier-activating enzyme 1,UBA1,P22314;B4DDE4;Q5JRR6,7.74,3.3,3,,,,,3.93,0.000
+"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2",B3GNT2,Q9NY97;Q9NY97-2,6.02,3.5,1,,,,,3.76,0.000
+"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8",B3GNT8,Q7Z7M8,6.68,4.3,1,,,,,NaN,0.000
+UDP-glucose:glycoprotein glucosyltransferase 1,UGGT1,Q9NYU2;Q9NYU2-2,7.10,0.6,1,,,,,3.20,0.000
+Uncharacterized protein C16orf46,C16orf46,Q6P387;Q6P387-2,9.60,2.5,1,,,,,NaN,0.003
+UPF0669 protein C6orf120,C6orf120,Q7Z4R8,7.08,14.1,1,,,,,NaN,0.000
+"Uromodulin;Uromodulin, secreted form",UMOD,P07911-4;P07911;E9PEA4;P07911-2;P07911-3,7.72,6.6,4,,,,,3.15,0.000
+UTP--glucose-1-phosphate uridylyltransferase,UGP2,Q16851;E7EUC7;Q16851-2,NaN,2.0,1,,,,,4.32,0.000
+Vascular cell adhesion protein 1,VCAM1,P19320;E9PDD1;P19320-2;E9PDD2,8.87,13.4,10,,,,,4.80,0.000
+Vascular endothelial growth factor receptor 3,FLT4,P35916;E9PD35;P35916-3;P35916-1;E9PFB0,6.60,0.7,1,,,,,3.61,0.000
+Vasorin,VASN,Q6EMK4,9.07,11.4,6,,,,,4.92,0.000
+Vesicle-associated membrane protein-associated protein A,VAPA,Q9P0L0;Q9P0L0-2,NaN,6.4,1,,,,,NaN,0.003
+Vesicle-fusing ATPase,NSF,B4DFA2,NaN,1.6,1,,,,,NaN,0.009
+Vesicular integral-membrane protein VIP36,LMAN2,Q12907;B4DWN1;D6RDX1;D6RBV2;D6RIU4,7.53,3.1,1,,,,,4.04,0.000
+Vimentin,VIM,P08670;B0YJC4;F5H288;B0YJC5,8.98,37.3,19,,,,,7.45,0.000
+Vinculin,VCL,P18206;P18206-2;F5H7T3;G8JLL3;Q5JQ13,8.19,11.7,13,,,,,4.95,0.000
+Vinexin,SORBS3,O60504;H0YAU6;H0YAT3;E5RHS8;E7EQH0,7.04,2.5,1,,,,,NaN,0.001
+Vitamin D-binding protein,GC,D6RF35;D6RAK8;D6RBJ7,10.58,44.7,23,,,,,7.78,0.000
+Vitamin D-binding protein,GC,P02774;P02774-2,8.59,46.8,24,,,,,7.78,0.003
+Vitamin K-dependent protein C;Vitamin K-dependent protein C light chain;Vitamin K-dependent protein C heavy chain;Activation peptide,PROC,P04070;F5H880;E7END6;B4DPQ7,9.38,14.5,6,+,+,,,5.70,0.000
+Vitamin K-dependent protein S,PROS1,P07225;G5E9F8,9.79,21.9,14,+,+,,,7.14,0.000
+Vitamin K-dependent protein Z,PROZ,P22891;P22891-2,9.03,14.2,5,,,,,6.52,0.000
+Vitronectin;Vitronectin V65 subunit;Vitronectin V10 subunit;Somatomedin-B,VTN,P04004,10.45,34.5,14,,,,,7.65,0.000
+Voltage-dependent anion-selective channel protein 1,VDAC1,P21796,7.86,10.6,3,,,,,3.54,0.000
+Voltage-dependent calcium channel subunit alpha-2/delta-1;Voltage-dependent calcium channel subunit alpha-2-1;Voltage-dependent calcium channel subunit delta-1,CACNA2D1,P54289;F8WC36;P54289-5;P54289-2;P54289-3;P54289-4,7.39,2.9,3,,,,,4.18,0.000
+von Willebrand factor;von Willebrand antigen 2,VWF,P04275,9.56,12.0,32,+,+,,,6.72,0.000
+Xaa-Pro dipeptidase,PEPD,P12955;E9PCE8;P12955-2,8.31,12.0,5,,,,,4.85,0.000
+X-ray repair cross-complementing protein 5,XRCC5,P13010,7.15,2.2,2,,,,,NaN,0.000
+Y-box-binding protein 3,YBX3,P16989;P16989-3;P16989-2,7.71,8.3,3,,,,,NaN,0.000
+Zinc finger protein 318,ZNF318,Q5VUA4,6.86,0.4,1,,,,,NaN,0.007
+Zinc-alpha-2-glycoprotein,AZGP1,P25311;C9JEV0,10.40,53.4,17,,,,,7.70,0.000
+,CHL1,H7C0J0,6.20,6.6,2,,,,,4.15,0.002
+,PDIA3,H7BZJ3,7.21,20.3,2,,,,,4.51,0.000
+,B2M,H0YLF3,8.83,28.2,2,,,,,6.49,0.000
+,C1S,C9IZP8,7.60,16.5,1,,,,,6.72,0.000
+,CFH,F8WDX4;C9JYL1;Q5TFM2,NaN,39.9,17,,,,,7.62,0.000
+,ITIH4,B7ZKJ8;F5GXQ1,8.20,54.4,45,,,,,7.62,0.000
+,SERPINF2,C9JPV4,6.83,47.0,9,,,,,7.74,0.000
+,SERPINA3,G3V3A0,8.28,61.0,11,,,,,8.04,0.000
+,CP,D6RE86,7.78,39.7,6,,,,,8.23,0.000
+,FGG,C9JPQ9;C9JU00,9.17,76.5,13,,,,,8.43,0.008
+,,A6NG18,10.49,28.7,17,,,,,NaN,0.000
+,,E7ETN3,NaN,38.3,41,,,,,NaN,0.000
+,,F8VNY6,NaN,42.7,16,,,,,NaN,0.002
